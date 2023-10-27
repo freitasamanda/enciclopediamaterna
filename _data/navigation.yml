@@ -4,7 +4,7 @@ main:
     url: /categories/referencias/
   - title: "Artigos"
     url: /categories/artigos/
-  - title: "/tags/"
+  - title: "Assuntos"
     url: /tags/
   - title: "Categorias"
     url: /categories/

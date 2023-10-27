@@ -5,7 +5,6 @@ categories:
 tags:
   - Assunto 1
   - Assunto 2
-toc: true
 ---
 
 Esse é um exemplo de post

@@ -54,6 +54,23 @@ Serão usadas posteriormente para seções do site que se quer destacar ou para 
 - minha foto, uma header talvez, um logo com ctz
 
 
+---
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+---
+Essa é a homepage.
+
+
 
 
 💡 Neste site, reuni todas as referências com as quais estudei (e continuo estudando) durante a minha gestação, e que me ajudaram na jornada de me tornar mãe da Alice. Aqui você encontra referências com embasamento científico e atualizadas sobre parto humanizado, gestação, nutrição infantil, desenvolvimento infantil, bicos artificiais, fraldas ecológicas, entre outros assuntos.
