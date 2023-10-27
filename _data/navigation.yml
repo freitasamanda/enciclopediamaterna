@@ -4,9 +4,11 @@ main:
     url: "/comece_por_aqui/"
   - title: "Sobre"
     url: "/sobre/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts por ano"
+    url: /year-archive/
+  - title: "Coleções"
+    url: /collection-archive/
+  - title: "Tags"
+    url: /tags/
+  - title: "Sitemap"
+    url: /sitemap/
