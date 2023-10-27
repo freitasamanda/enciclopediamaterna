@@ -10,11 +10,9 @@ toc_label: "Neste artigo"
 author_profile: true
 ---
 
-### Evolução do uso de chupeta e sua influência no aleitamento materno exclusivo no Brasil, 1999-2008 - Gabiela Buccini (tese de doutorado)
+### [Evolução do uso de chupeta e sua influência no aleitamento materno exclusivo no Brasil, 1999-2008 - Gabriela Buccini (Tese de doutorado)](https://www.teses.usp.br/teses/disponiveis/6/6138/tde-19042017-094155/pt-br.php)
 
 BUCCINI, Gabriela dos Santos. **Evolução do uso de chupeta e sua influência no aleitamento materno exclusivo no Brasil, 1999-2008**. 2017. Tese de Doutorado. Universidade de São Paulo.
-
-[Evolução do uso de chupeta e sua influência no aleitamento materno exclusivo no Brasil, 1999-2008](https://www.teses.usp.br/teses/disponiveis/6/6138/tde-19042017-094155/pt-br.php)
 
 >💬*“[O estudo revelou] o uso de chupeta como o fator mais fortemente associado à interrupção precoce do AME no Brasil no período de 1999 a 2008. O uso de chupeta é um fator de risco associado à interrupção do AME em crianças menores de 6 meses, sendo um forte determinante no declínio temporal da interrupção precoce dessa prática no Brasil. Como um fator de risco modificável, revelou-se seu potencial na prevenção da interrupção precoce do AME. Estratégias preventivas com abordagem universal e seletiva para redução do uso de chupeta em crianças amamentadas exclusivamente poderiam acelerar a melhoria das taxas da AME no Brasil, rumo às recomendações internacionais”*
 
