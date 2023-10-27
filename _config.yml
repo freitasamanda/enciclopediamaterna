@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Amanda Freitas"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg"
   bio              : "Cientista Social (UNIFESP), Mestranda em Ciência Política (USP), criadora do projeto Enciclopédia Materna"
   location         : "São Paulo (Brasil)"
   email            :
