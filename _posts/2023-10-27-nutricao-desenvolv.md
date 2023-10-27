@@ -13,8 +13,5 @@ author_profile: true
 
 ## [WHO Guideline for complementary feeding of infants and young children 6-23 months of age](https://www.who.int/publications/i/item/9789240081864)
 
-## [O leite materno pode provocar icterícia? - Sociedade Brasileira de Pediatria](https://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/o-leite-materno-pode-provocar-ictericia/)
-
 ## [Curvas de Crescimento: orientações para Profissionais de Saúde - Fiocruz](https://portaldeboaspraticas.iff.fiocruz.br/atencao-criancacurvas-de-crescimento-orientacoes-para-profissionais-de-saude/)
 
-## [APLV - Alergia ao leite de vaga](https://www.alergiaaoleitedevaca.com.br/)
