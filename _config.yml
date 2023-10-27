@@ -101,7 +101,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Amanda Freitas"
@@ -182,8 +181,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -293,8 +290,8 @@ defaults:
       related: true
       show_date: true
       date_format: "%Y-%m-%d"
-# _pages
-  - scope:
+  # _pages
+    - scope:
       path: ""
       type: pages
     values:
