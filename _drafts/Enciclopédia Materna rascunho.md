@@ -87,11 +87,6 @@ Além de utilizar para consulta pessoal, você pode divulgar este projeto para m
 
 ---
 
-
-
-
-
-
 ### Município de São Paulo - SP
 
 ![Dados do Painel para o Município de São Paulo](Apostila%20da%20Alice%20a0b37e93ae4b4119ba29343085ea3938/Untitled%206.png)
@@ -163,32 +158,6 @@ Dados do Painel para ****Hospital Pro-Matre - Paulista****
 ![Dados do Painel para ************************************************Hospital Amparo Maternal************************************************](Apostila%20da%20Alice%20a0b37e93ae4b4119ba29343085ea3938/Untitled%2016.png)
 
 Dados do Painel para ************************************************Hospital Amparo Maternal************************************************
-
-# 📚Livros
-
-******************************************************************************Toda mulher é o mundo - Guia de Aleitamento Materno - Verônica Linder******************************************************************************
-
-[Toda mulher é o mundo  Guia de aleitamento materno - Editora Timo  Livros sobre aleitamento, introdução alimentar de bebês, criação com apego, parto e muito mais!](https://www.loja.editoratimo.com.br/toda-mulher-e-o-mundo)
-
-**9 Meses - Um guia prático e baseado em evidências do positivo ao parto - Ana Jannuzzi**
-
-[9 Meses - Um guia prático e baseado em evidências do positivo ao parto - Ana Jannuzzi | Amazon.com.br](https://www.amazon.com.br/Meses-prático-evidências-positivo-Jannuzzi/dp/6500738691)
-
-**Útero: A história de onde tudo começou - Leah Hazard**
-
-[Útero: A história de onde tudo começou | Amazon.com.br](https://www.amazon.com.br/Útero-história-onde-tudo-começou/dp/8542221826)
-
-**O Matador de Bebês: uma investigação da War on Want sobre a promoção e venda de fórmula infantil para bebês, no Terceiro Mundo - Mike Muller**
-
-[O Matador de Bebês: uma investigação da War on Want sobre a promoção e venda de fórmula infantil para bebês, no Terceiro Mundo.](http://higia.imip.org.br/handle/123456789/947)
-
-**O Bebê Montessori: Guia para criar bebês com amor, respeito e compreensão - Simone Davies, Junnifa Uzodike**
-
-[O Bebê Montessori: Guia para criar bebês com amor, respeito e compreensão | Amazon.com.br](https://www.amazon.com.br/Bebê-Montessori-criar-respeito-compreensão/dp/6587638627)
-
-******************************************Mamãe Desobediente - Um olhar feminista sobre a maternidade - Esther Vivas******************************************
-
-[Mamãe desobediente - Editora Timo  Livros sobre aleitamento, introdução alimentar de bebês, criação com apego, parto e muito mais!](https://www.loja.editoratimo.com.br/livros/mamae-desobediente/)
 
 # **📽️Filmes**
 
