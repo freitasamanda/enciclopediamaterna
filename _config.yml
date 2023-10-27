@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:freitas.amanda@usp.br"
+      url: "mailto:freitas.amanda@usp.br"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://freitasamanda.github.io"
+      url: "https://freitasamanda.github.io"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/freitasamanda"
+      url: "https://github.com/freitasamanda"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/mandyfreitas19/"
+      url: "https://www.instagram.com/mandyfreitas19/"
 
 # Site Footer
 footer:
