@@ -108,12 +108,12 @@ author:
   avatar           : "/assets/images/profile.jpeg"
   bio              : "Cientista Social (UNIFESP), Mestranda em Ciência Política (USP), criadora do projeto Enciclopédia Materna"
   location         : "São Paulo (Brasil)"
-  email            :
+  email            : "freitas.amanda@usp.br"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:freitas.amanda@usp.br"
-    - label: "Website"
+    - label: "Currículo Acadêmico"
       icon: "fas fa-fw fa-link"
       url: "https://freitasamanda.github.io"
     - #label: "Twitter"
@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -292,3 +293,10 @@ defaults:
       related: true
       show_date: true
       date_format: "%Y-%m-%d"
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

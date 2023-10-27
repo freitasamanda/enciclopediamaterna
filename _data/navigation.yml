@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Comece por aqui"
-    url: "/docs/comece_por_aqui/"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: "/comece_por_aqui/"
+  - title: "Sobre"
+    url: "/sobre/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
