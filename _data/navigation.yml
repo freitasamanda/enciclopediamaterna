@@ -8,8 +8,6 @@ main:
     url: /tags/
   - title: "Categorias"
     url: /categories/
-  - title: "Busca"
-    url: /search/
   - title: "Coleções"
     url: /collection-archive/
   - title: "Posts por ano"
