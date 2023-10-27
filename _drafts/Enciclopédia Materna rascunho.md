@@ -7,7 +7,7 @@ curriculo "https://freitasamanda.github.io"
 github https://github.com/freitasamanda"
 instagram
 
-ORGANIZAÇÃO DO SITE
+# ORGANIZAÇÃO DO SITE
 Navegação:
 1. Comece por aqui
 2. Referências - uma página que vem só dos posts da categoria "referências"
@@ -53,50 +53,37 @@ Serão usadas posteriormente para seções do site que se quer destacar ou para 
 - Imagens necessárias
 - minha foto, uma header talvez, um logo com ctz
 
+# Sobre este projeto
+O projeto Enciclopédia Materna é o resultado de um esforço de compilar referências com embasamento científico e atualizadas sobre diversos assuntos pertinentes para uma maternidade sob ótima feminista. Aqui você encontra organizadas referências sobre assuntos como parto humanizado, gestação, nutrição infantil, amamentação e cultura do desmame, bicos artificiais, desenvolvimento infantil, entre outros. Este projeto é atualizado constantemente com novas referências.
 
----
-layout: splash
-permalink: /
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
----
-Essa é a homepage.
+# Como usar este site
 
+Este site conta com informações em sua maioria de órgãos nacionais e internacionais, pesquisas científicas e trabalho de ativistas de amamentação. As publicações contém *links* direcionando para todas as referências e, quando possível, resumos rápidos das informações principais de cada uma delas.
 
+O site está organizado da seguinte forma: Há um conjunto de publicações com referências listadas e resumidas, organizadas por assuntos. É possível vizualizar todas elas na aba "Referências", organizadas por assunto na aba "Assuntos", ou buscar por um tópico específico na opção "Busca".
 
+O projeto atualmente contém os seguintes assuntos:
+- Bicos artificiais
+- Nutrição e desenvolvimento
+- Primeiros Socorros e Emergências
+- Leis e órgãos públicos
+- Amamentação
+- Desmame
+- Telas
+- Psicologia infantil
+- Natureza e consumo
+- Desfralde e higiene natural
+- Parto
+- Perfis e Podcasts
+- Vídeos
+- Filmes
+- Livros
 
-💡 Neste site, reuni todas as referências com as quais estudei (e continuo estudando) durante a minha gestação, e que me ajudaram na jornada de me tornar mãe da Alice. Aqui você encontra referências com embasamento científico e atualizadas sobre parto humanizado, gestação, nutrição infantil, desenvolvimento infantil, bicos artificiais, fraldas ecológicas, entre outros assuntos.
+O projeto conta também com artigos em que se discute, de forma autoral, assuntos pontuais. Eles podem ser lidos na aba "Artigos".
 
-## ❓Como usar este site
+# Como contribuir com o projeto
 
-<aside>
-➡️ Este site conta com um conjunto de links organizados por temas para referências em diferentes formatos, principalmente de órgãos nacionais e internacionais, pesquisas científicas e trabalhos de ativistas. Ao longo do site, também há imagens de infográficos para consulta mais rápida,  como a síntese de evidências sobre uso de chupetas e a classificação de Robson. Inclui também em caixas destacadas como esta alguns trechos que resumem os artigos logo abaixo de seus respectivos links. Importante lembrar que devido ao fato de que sou de São Paulo capital, alguns links e informações podem focar apenas nesta região, porém inclui formas de consultar as mesmas informações sobre a sua região logo ao lado. Este site está dividido da seguinte forma:
-
-</aside>
-
-- **Documentos e artigos:** uma série de links com referências embasadas e atualizadas. Pelo índice, é possível navegar até o assunto e o link da referência que se quer consultar.
-- **Leis importantes:** nessa seção, você encontra um conjunto de leis que garantem direitos relacionados à maternidade, amamentação e infância, bem como a referência para ler a lei na íntegra. Essa seção também conta com links para acesso a importantes órgãos públicos.
-- ****************Livros:**************** Recomendações de livros com links para compra e breve resenha escrita por mim.
-- **************Filmes:************** Links para documentários e breve resenha escrita por mim.
-- ******************************************Páginas no Instagram:****************************************** Sendo a rede social que mais utilizo, reuno aqui o link para perfis de instagram que recomendo por terem posicionamentos baseados na promoção do aleitamento materno, parto humanizado e educação infantil respeitosa. Alguns deles são consultoras de amamentação, doulas e pediatras, além de ativistas de maternidade, feminismo e amamentação.
-- ******************Podcasts:****************** Links para a plataforma Spotify.
-- ****************Vídeos e palestras:**************** Algumas aulas, vídeos curtos e palestras.
-
-## TEMAS QUE AINDA VÃO SER COLOCADOS
-
-- Primeiros socorros
-- 
-
-
-
+Além de utilizar para consulta pessoal, você pode divulgar este projeto para mais pessoas e também pode enviar referências e sugestões de temas. Entre em contato comigo através dos links ao lado, me enviando um email ou mensagem pelo instagram.
 
 
 # 📄Documentos e artigos
