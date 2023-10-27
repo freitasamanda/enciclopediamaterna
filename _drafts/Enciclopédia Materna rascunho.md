@@ -86,23 +86,8 @@ O projeto conta também com artigos em que se discute, de forma autoral, assunto
 Além de utilizar para consulta pessoal, você pode divulgar este projeto para mais pessoas e também pode enviar referencias e sugestões de temas. Entre em contato comigo através dos links ao lado, me enviando um email ou mensagem pelo instagram.
 
 
-## Nutrição e Saúde
 
-### **WHO Guideline for complementary feeding of infants and young children 6-23 months of age**
 
-[WHO Guideline for complementary feeding of infants and young children 6-23 months of age](https://www.who.int/publications/i/item/9789240081864)
-
-[](https://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/o-leite-materno-pode-provocar-ictericia/)
-
-### ****Curvas de Crescimento: orientações para Profissionais de Saúde - Fiocruz****
-
-[Curvas de Crescimento: orientações para Profissionais de Saúde](https://portaldeboaspraticas.iff.fiocruz.br/atencao-crianca/curvas-de-crescimento-orientacoes-para-profissionais-de-saude/)
-
-### ************************************************************APLV - Alergia ao leite de vaga************************************************************
-
-[Inicio](https://www.alergiaaoleitedevaca.com.br/)
-
----
 
 ## Síntese das principais evidências científicas dos aspectos negativos quanto ao uso de chupeta na saúde da criança
 
