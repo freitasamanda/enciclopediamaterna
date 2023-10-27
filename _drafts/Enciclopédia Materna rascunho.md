@@ -161,59 +161,9 @@ Dados do Painel para ************************************************Hospital Am
 
 # **📽️Filmes**
 
-**O renascimento do parto 3**
-
-[Watch The Birth Reborn 3 | Netflix](https://www.netflix.com/title/80995577)
-
-**Inside Out: Mãe, Um Retrato**
-
-[Inside Out: Mãe, Um Retrato Celebra O Poder Da Maternidade Em Todo O Brasil!](https://www.insideoutproject.net/pt_BR/news/inside-out-mother-a-portrait-celebrates-the-power-of-motherhood-across-brazil)
-
-**Tigers**
-
-[FILME ‘T I G E R S’ (2014)](https://www.ibfan.org.br/site/filme-tigers)
-
-************************************Muito Além do Peso************************************
-
-[MUITO ALÉM DO PESO | Filme Completo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikgMO_6oSCAxUKpZUCHb4SAcwQwqsBegQIIBAG&url=https://www.youtube.com/watch?v=8UGe5GiHCT4&usg=AOvVaw1dwue1ZlUV5UgqsGibG2UQ&opi=89978449)
 
 # 📺 Vídeos, aulas e palestras
 
-****SMAM 2021 - Dr. Carlos Gonzalez - Uso e Abuso das Curvas de peso****
-
-[SMAM 2021 - 2 de agosto - Pré conferência - Uso e Abuso das Curvas de peso](https://www.youtube.com/watch?v=AO2mKaem1j0)
-
-************************************Live - Bebê Fora da Curva************************************
-
-[Lilian Rocha - Bebê fora da curva on Instagram: "Parte I  Live com a Dra Sônia"](https://www.instagram.com/tv/CdzJi8sp9Ed/?igshid=MzRlODBiNWFlZA==)
-
-************************************Instituto Alana - A criança que se sente capaz************************************
-
-[Inspirações | A criança que se sente capaz](https://www.youtube.com/watch?v=viEiCB5zFGM)
-
-**********Instituto Alana - quando o risco vale a pena**********
-
-[Pílulas | Quando o risco vale a pena](https://www.youtube.com/watch?v=DCULd07RzpQ)
-
-********************************************************************Instituto Alana - Verdejando o aprender********************************************************************
-
-[Pílulas | Verdejando o aprender | Criança e Natureza](https://www.youtube.com/watch?v=RVtV6V4_mp8)
-
-********Entrevista com Verônica Linder na TV Senado - “A responsabilidade de proteger o aleitamento materno deve ser compartilhada por toda a sociedade”********
-
-[A responsabilidade de proteger o aleitamento materno deve ser compartilhada por toda a sociedade](https://www.youtube.com/watch?v=qdhVzg-r4A4)
-
-********************************Dra. Ana Jannuzzi - Os mitos do sono do bebê********************************
-
-[Aula 1 - Os mitos do sono do bebê](https://www.youtube.com/watch?v=rnIylEMef28)
-
-******************************************Dra. Ana Jannuzi - Os passos fundamentais para um sono melhor******************************************
-
-[Aula 2 - Os passos fundamentais](https://www.youtube.com/watch?v=6C_bhrrn-wo)
-
-************************************Instituto Alana - O desafio da tecnologia na infância************************************
-
-[Inspirações | O desafio da tecnologia na infância | Criança e Natureza](https://www.youtube.com/watch?v=hmUKOV7HpxM&t=4s)
 
 # 📱Páginas no Instagram
 
