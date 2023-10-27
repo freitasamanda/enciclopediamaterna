@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "Referências"
-    url: /categories/referencias/
+    url: /categories/Referências/
   - title: "Artigos"
     url: /categories/artigos/
   - title: "Assuntos"
     url: /tags/
   - title: "Categorias"
     url: /categories/
-  - title: "Coleções"
-    url: /collection-archive/
   - title: "Busca"
     url: /search/
+  - title: "Coleções"
+    url: /collection-archive/
   - title: "Posts por ano"
     url: /year-archive/

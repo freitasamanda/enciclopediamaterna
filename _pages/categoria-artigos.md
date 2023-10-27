@@ -6,5 +6,3 @@ taxonomy: Artigos
 entries_layout: grid
 ---
 
-Artigos publicados.
-

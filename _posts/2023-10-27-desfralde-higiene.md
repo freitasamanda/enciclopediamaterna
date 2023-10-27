@@ -2,7 +2,7 @@
 title: "Desfralde e higiene natural"
 layout: single
 categories:
-  - referencias
+  - Referências
 tags:
   - Desfralde e higiene natural
 toc: true

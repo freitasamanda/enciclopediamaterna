@@ -2,7 +2,7 @@
 title: "Indicações de livros"
 layout: single
 categories:
-  - referencias
+  - Referências
 tags:
   - Livros
 toc: true

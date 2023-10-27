@@ -2,7 +2,7 @@
 title: "Primeiros Socorros e Emergências"
 layout: single
 categories:
-  - referencias
+  - Referências
 tags:
   - Primeiros Socorros e Emergências
 toc: true

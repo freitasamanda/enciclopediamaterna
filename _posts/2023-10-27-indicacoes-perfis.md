@@ -2,7 +2,7 @@
 title: "Indicações de Perfis e Podcasts"
 layout: single
 categories:
-  - referencias
+  - Referências
 tags:
   - Perfis e Podcasts
 toc: true

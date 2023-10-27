@@ -2,7 +2,7 @@
 title: "Nutrição e desenvolvimento"
 layout: single
 categories:
-  - referencias
+  - Referências
 tags:
   - Nutrição e desenvolvimento
 toc: true
