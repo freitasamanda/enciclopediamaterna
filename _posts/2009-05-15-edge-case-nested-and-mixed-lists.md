@@ -1,5 +1,6 @@
 ---
 title: "Exemplo"
+layout: single
 categories:
   - Artigos
 tags:
