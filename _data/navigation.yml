@@ -3,9 +3,9 @@ main:
   - title: "Comece por aqui"
     url: "/comece_por_aqui/"
   - title: "Categorias"
-    url: "/cateegory-archive/"
+    url: "/categories/"
   - title: "Tags"
-    url: /tag-archive/
+    url: /tags/
   - title: "Coleções"
     url: /collection-archive/
   - title: "Posts por ano"
