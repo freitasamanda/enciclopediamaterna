@@ -7,7 +7,7 @@ tags:
   - Filmes
 toc: true
 toc_label: "Neste artigo"
-author_profile: true
+ author_profile: false
 ---
 
 ## [O renascimento do parto 3](https://www.netflix.com/title/80995577)

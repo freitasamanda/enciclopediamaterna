@@ -7,7 +7,7 @@ tags:
   - Desfralde e higiene natural
 toc: true
 toc_label: "Neste artigo"
-author_profile: true
+ author_profile: false
 ---
 
 ## [Estudo francês encontra 60 substâncias tóxicas em fraldas descartáveis  Folha de São Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2019/01/estudo-frances-encontra-60-substancias-toxicas-em-fraldas-descartaveis.shtml)

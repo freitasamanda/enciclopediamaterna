@@ -7,7 +7,7 @@ tags:
   - Bicos Artificiais
 toc: true
 toc_label: "Neste artigo"
-author_profile: true
+author_profile: false
 ---
 
 ## [Evolução do uso de chupeta e sua influência no aleitamento materno exclusivo no Brasil, 1999-2008 - Gabriela Buccini (Tese de doutorado, 2017, Universidade de São Paulo)](https://www.teses.usp.br/teses/disponiveis/6/6138/tde-19042017-094155/pt-br.php)

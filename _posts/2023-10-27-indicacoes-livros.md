@@ -7,7 +7,7 @@ tags:
   - Livros
 toc: true
 toc_label: "Neste artigo"
-author_profile: true
+ author_profile: false
 ---
 
 ## [Toda mulher é o mundo  Guia de aleitamento materno - Verônica Linder](https://www.loja.editoratimo.com.br/toda-mulher-e-o-mundo)
