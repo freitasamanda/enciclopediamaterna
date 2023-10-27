@@ -2,13 +2,11 @@
 main:
   - title: "Comece por aqui"
     url: "/comece_por_aqui/"
-  - title: "Sobre"
-    url: "/sobre/"
-  - title: "Posts por ano"
-    url: /year-archive/
+  - title: "Categorias"
+    url: "/cateegory-archive/"
+  - title: "Tags"
+    url: /tag-archive/
   - title: "Coleções"
     url: /collection-archive/
-  - title: "Tags"
-    url: /tags/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Posts por ano"
+    url: /year-archive/
