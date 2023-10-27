@@ -1,9 +1,32 @@
-Esse projeto é bla bla bla
+---
+layout: archive
+---
 
-<h1>Como usar este site:</h1>
+{{ content }}
 
-Use assim assim assado.
+Este projeto é sobre bla bla
 
-<h1>Como contribuir com o projeto:</h1>
+<h2>Como usar este site:</h2>
+
+use assim assim
+
+<h2>Como contribuir com o projeto:</h2>
 
 assim assim
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
