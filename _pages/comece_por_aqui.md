@@ -12,14 +12,5 @@ asdasda
 ## Como usar este site
 asdasd
 
-## Sobre a autora
-![autora](/assets/images/profile.jpeg)
-Amanda Freitas
-Cientista Social (UNIFESP), Mestranda em Ciência Política (USP), criadora do projeto Enciclopédia Materna.
-- [envie um email](mailto:freitas.amanda@usp.br)
-- [currículo acadêmico](https://freitasamanda.github.io")
-- [github](https://github.com/freitasamanda)
-- [instagram](https://www.instagram.com/mandyfreitas19/)
-
 ## Como contribuir com o projeto
 asdads
