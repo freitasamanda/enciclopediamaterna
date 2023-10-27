@@ -278,7 +278,7 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
+  scope:
       path: ""
       type: posts
     values:
@@ -291,7 +291,7 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
   # _pages
-    - scope:
+    scope:
       path: ""
       type: pages
     values:
