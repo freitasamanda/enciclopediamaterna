@@ -2,7 +2,7 @@
 title: "Indicações de filmes"
 layout: single
 categories:
-  - Referências
+  - referencias
 tags:
   - Filmes
 toc: true

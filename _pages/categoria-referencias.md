@@ -1,7 +1,7 @@
 ---
-title: Referências
+title: "Referências"
 layout: category
 permalink: /categories/referencias/
-taxonomy: Referências
+taxonomy: referencias
 entries_layout: grid
 ---

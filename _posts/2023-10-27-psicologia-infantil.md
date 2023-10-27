@@ -2,7 +2,7 @@
 title: "Psicologia infantil"
 layout: single
 categories:
-  - Referências
+  - referencias
 tags:
   - Psicologia infantil
 toc: true

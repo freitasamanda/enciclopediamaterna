@@ -2,7 +2,7 @@
 title: "Bicos Artificiais"
 layout: single
 categories:
-  - Referências
+  - referencias
 tags:
   - Bicos Artificiais
 toc: true

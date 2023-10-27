@@ -2,7 +2,7 @@
 title: "Amamentação"
 layout: single
 categories:
-  - Referências
+  - referencias
 tags:
   - Amamentação
 toc: true

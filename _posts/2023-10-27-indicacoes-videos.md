@@ -2,7 +2,7 @@
 title: "Indicações de vídeos"
 layout: single
 categories:
-  - Referências
+  - referencias
 tags:
   - Vídeos
 toc: true

@@ -2,7 +2,7 @@
 title: "Natureza e consumo"
 layout: single
 categories:
-  - Referências
+  - referencias
 tags:
   - Natureza e consumo
 toc: true
