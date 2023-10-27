@@ -1,11 +1,13 @@
 ---
 title: "Exemplo"
 layout: single
+class: wide
 categories:
   - Artigos
 tags:
   - Assunto 1
   - Assunto 2
+toc: true
 ---
 
 Esse é um exemplo de post
