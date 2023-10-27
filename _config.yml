@@ -103,31 +103,31 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Amanda Freitas"
-  avatar           : "/assets/images/profile.jpeg"
-  bio              : "Cientista Social (UNIFESP), Mestranda em Ciência Política (USP), criadora do projeto Enciclopédia Materna"
-  location         : "São Paulo (Brasil)"
-  email            : "freitas.amanda@usp.br"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:freitas.amanda@usp.br"
-    - label: "Currículo Acadêmico"
-      icon: "fas fa-fw fa-link"
-      url: "https://freitasamanda.github.io"
+#author:
+  #name             : "Amanda Freitas"
+  #avatar           : "/assets/images/profile.jpeg"
+  #bio              : "Cientista Social (UNIFESP), Mestranda em Ciência Política (USP), criadora do projeto Enciclopédia Materna"
+  #location         : "São Paulo (Brasil)"
+  #email            : "freitas.amanda@usp.br"
+  #links:
+  #  - label: "Email"
+  #    icon: "fas fa-fw fa-envelope-square"
+  #    url: "mailto:freitas.amanda@usp.br"
+  #  - label: "Currículo Acadêmico"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://freitasamanda.github.io"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/freitasamanda"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/mandyfreitas19/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/freitasamanda"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://www.instagram.com/mandyfreitas19/"
 
 # Site Footer
 footer:
@@ -291,8 +291,8 @@ defaults:
       related: true
       show_date: true
       date_format: "%Y-%m-%d"
-# _pages
-  - scope:
+  # _pages
+    - scope:
       path: ""
       type: pages
     values:
