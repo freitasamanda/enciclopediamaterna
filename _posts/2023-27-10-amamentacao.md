@@ -1,12 +1,13 @@
 ---
-title: "Exemplo"
+title: "Amamentação"
 layout: single
 categories:
-  - Artigos
+  - referencias
 tags:
-  - Assunto 1
-  - Assunto 2
+  - Amamentação
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
 ---
+
+Em breve.

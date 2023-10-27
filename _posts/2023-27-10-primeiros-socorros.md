@@ -1,12 +1,12 @@
 ---
-title: "Exemplo"
+title: "Primeiros Socorros e Emergências"
 layout: single
 categories:
-  - Artigos
+  - referencias
 tags:
-  - Assunto 1
-  - Assunto 2
+  - Primeiros Socorros e Emergências
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
 ---
+Em breve.

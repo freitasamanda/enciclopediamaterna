@@ -1,12 +1,12 @@
 ---
-title: "Exemplo"
+title: "Nutrição e desenvolvimento"
 layout: single
 categories:
-  - Artigos
+  - referencias
 tags:
-  - Assunto 1
-  - Assunto 2
+  - Nutrição e desenvolvimento
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
 ---
+Em breve.

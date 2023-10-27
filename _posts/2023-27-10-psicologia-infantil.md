@@ -1,10 +1,10 @@
 ---
-title: "Leis e Órgãos Públicos"
+title: "Psicologia infantil"
 layout: single
 categories:
   - referencias
 tags:
-  - leis e órgãos públicos
+  - Psicologia infantil
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

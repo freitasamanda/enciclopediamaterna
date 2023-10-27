@@ -1,10 +1,10 @@
 ---
-title: "Leis e Órgãos Públicos"
+title: "Indicações de livros"
 layout: single
 categories:
   - referencias
 tags:
-  - leis e órgãos públicos
+  - Livros
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

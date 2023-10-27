@@ -1,12 +1,12 @@
 ---
-title: "Exemplo"
+title: "Bicos Artificiais"
 layout: single
 categories:
-  - Artigos
+  - referencias
 tags:
-  - Assunto 1
-  - Assunto 2
+  - Bicos Artificiais
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
 ---
+Em breve.

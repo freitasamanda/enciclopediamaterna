@@ -1,10 +1,10 @@
 ---
-title: "Leis e Órgãos Públicos"
+title: "Natureza e consumo"
 layout: single
 categories:
   - referencias
 tags:
-  - leis e órgãos públicos
+  - Natureza e consumo
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
