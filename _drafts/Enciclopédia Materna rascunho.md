@@ -1,7 +1,7 @@
 # Enciclopédia Materna: compilado de referências para uma maternidade empoderada
 freitasamanda.github.io
 Autora: Amanda Freitas
-Bio: Mestranda em Ciência Política (USP), Cientista Social (UNIFESP), criadora do projeto Enciclopédia Materna
+Bio: Mestranda em Ciência Polítaaaica (USP), Cientista Social (UNIFESP), criadora do projeto Enciclopédia Materna
 freitas.amanda@usp.br"
 curriculo "https://freitasamanda.github.io"
 github https://github.com/freitasamanda"
