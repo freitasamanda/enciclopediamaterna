@@ -24,9 +24,8 @@ tags:
 
 >💬 *Recomendações para famílias: uma hora por dia para que seu filho possa brincar com a natureza, andar a pé ou usar o transporte público, movimentar-se com a comunidade local para transformar e revitalizar espaços públicos, reservar tempo nos finais de semana para atividades ao ar livre com seu filho, oferecer livros e revistas sobre a natureza ao seu filho, encorajar seu filho a interagir com o ambiente natural em todas as condições climáticas, planejar festas de aniversário ao ar livre e priorizar passeios ao ar livre.*
 
-![natureza1](images/natureza-criancas.png)
-![natureza2](images/natureza-família.png)
-
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/natureza-criancas.png)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/natureza-familia.png)
 
 ## [Desemparedamento da infância: A escola como lugar de encontro com a natureza - Instituto Alana](https://criancaenatureza.org.br/wp-content/uploads/2018/08/Desemparedamento_infancia.pdf)
 

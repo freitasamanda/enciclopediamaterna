@@ -9,9 +9,8 @@ categories:
 tags:
   - Livros
 ---
-
 ## [Toda mulher é o mundo  Guia de aleitamento materno - Verônica Linder](https://www.loja.editoratimo.com.br/toda-mulher-e-o-mundo)
-![toda-mulher-livro](assets/images/toda-mulher-livro.jpg)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/toda-mulher-livro.jpg)
 
 O livro Toda Mulher é o Mundo – Guia de Aleitamento Materno, da jornalista e ativista Verônica Linder é a versão revista e atualizada do e-book lançado em 2020, que foi construído de forma colaborativa para levar mais informação para as pessoas interessadas em se aprofundar no universo da maternidade e da amamentação, com informação, autonomia, conhecimento, assistência, feminismo e ativismo.
 
@@ -23,7 +22,7 @@ O livro Toda Mulher é o Mundo – Guia de Aleitamento Materno, da jornalista e 
 Um guia prático - e baseado em evidências - com tudo que uma gestante precisa saber, do positivo ao parto. Exames e consultas de pré natal, quais as principais mudanças do corpo da gestante (e como lidar com elas), como escolher a equipe e o hospital, como ter um parto humanizado e seguro para você e para o seu bebê!
 
 ## [Útero: A história de onde tudo começou - Leah Hazard](https://www.amazon.com.br/Útero-história-onde-tudo-começou/dp/8542221826)
-![utero-livro](assets/images/utero-livro.jpg)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/utero-livro.jpg)
 Embarque nesta jornada e descubra que, mais do que a soma de partes biológicas, o útero é capaz de influenciar a vida de todas as pessoas.
 
 Desde o nascimento até a morte, na saúde e na doença, ao longo da história e em nosso possível futuro, Útero: a história de onde tudo começou, da parteira e escritora Leah Hazard, é uma pesquisa inovadora sobre o mais milagroso e incompreendido órgão do corpo humano: o útero.
@@ -35,18 +34,16 @@ Com uma linguagem afetuosa e bem-humorada, Hazard aborda questões urgentes, com
 Um livro que propõe um novo olhar sobre um órgão que nos traz, ao mesmo tempo, dor e prazer. Uma pequena parte de nossos corpos com um impacto muito maior do que jamais pensamos ser possível.
 
 ## [O Matador de Bebês: uma investigação da War on Want sobre a promoção e venda de fórmula infantil para bebês, no Terceiro Mundo.](http://higia.imip.org.br/handle/123456789/947)
-![matador-livro](images/matador-livo.jpg)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/matador-livro.PNG)
 
 O professor Fernando Figueira, na década de 1970, traduziu para o português o livro do britânico Mike Muller intitulado “The Baby Killer” (O Matador de Bebês). A obra teve impacto mundial por denunciar as consequências da comercialização de fórmulas infantis da gigante alimentícia e da mamadeira, em países do Terceiro Mundo.
 
 Trata-se de uma investigação sobre a promoção e venda de leite em pó para bebês do Terceiro Mundo. Essa publicação levou o boicote a grandes empresas da indústria de laticínios, destacando a Nestlé que desde à época da investigação tem uma forte atuação no mercado brasileiro. Traduzido para várias línguas e distribuído para todo o mundo, no Brasil, The Baby Killer foi traduzido pelo Prof. Fernando Figueira e publicado pelo IMIP em duas edições: a primeira em 1981 e a segunda em 1995.
 
 ## [O Bebê Montessori: Guia para criar bebês com amor, respeito e compreensão | Amazon.com.br](https://www.amazon.com.br/Bebê-Montessori-criar-respeito-compreensão/dp/6587638627)
-![montessori-livro](images/montessori-livro.jpg)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/montessori-livro.jpg)
 
 Neste novo livro, Simone Davies e Junnifa Uzodike propõem que olhemos para o primeiro ano da vida de um bebê pelo viés montessoriano, O Bebê Montessori vai ajudar os pais a encontrar o apoio e a paz que desejam, enquanto aprendem a lidar com o bebê com amor e respeito. Em um passo a passo, o livro mostra aos adultos como desacelerar e alcançar um ritmo adequado para ajudar o bebê a construir confiança em si próprios, no seu ambiente, e em nós. O livro também destaca como tornar-se um observador hábil e compreender o que o bebê nos diz; e como incutir neles autoconfiança e sentimentos de alegria que beneficiam toda a família. Assim como o seu predecessor e best-seller - A Criança Montessori –, O Bebê Montessori é um livro precioso sobre parentalidade, que nos dá prazer em ler, pois as suas lindas ilustrações coloridas e o seu design limpo e arejado reforçam o tom não crítico e sem jargões, que auxiliará de forma consciente e serena pais, mães, cuidadores ou educadores no desenvolvimento sensório-motor do bebê – tudo por meio das lentes Montessori
-
-<img src="https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/mamae-livro.jpg", align="left">
 
 ## [Mamãe desobediente - Editora Timo  Livros sobre aleitamento, introdução alimentar de bebês, criação com apego, parto e muito mais!](https://www.loja.editoratimo.com.br/livros/mamae-desobediente/)
 
