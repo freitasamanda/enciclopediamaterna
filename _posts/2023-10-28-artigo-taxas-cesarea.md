@@ -7,6 +7,6 @@ author_profile: true
 categories:
   - Artigos
 tags:
-  - Amamentação
+  - Parto
 ---
-Em breve.
+
