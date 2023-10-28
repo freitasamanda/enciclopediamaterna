@@ -7,7 +7,7 @@ tags:
   - Nutrição e desenvolvimento
 toc: true
 toc_label: "Neste artigo"
- author_profile: false
+ author_profile: true
 ---
 ## [Guia alimentar para crianças brasileiras menores de 2 anos - Ministério da Saúde](https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_crianca_brasileira_versao_resumida.pdf)
 

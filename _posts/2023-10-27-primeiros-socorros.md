@@ -7,7 +7,7 @@ tags:
   - Primeiros Socorros e Emergências
 toc: true
 toc_label: "Neste artigo"
- author_profile: false
+ author_profile: true
 ---
 ## [Dermatite atópica: que doença é esta? - Sociedade Brasileira de Pediatria](https://www.sbp.com.br/especiais/pediatria-para-familias/doencas/dermatite-atopica-que-doenca-e-esta/)
 

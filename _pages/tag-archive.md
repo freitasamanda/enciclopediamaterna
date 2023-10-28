@@ -2,7 +2,7 @@
 title: "Assuntos"
 permalink: /tags/
 layout: tags
-author_profile: false
+author_profile: true
 ---
 
 Posts organizados por assuntos.

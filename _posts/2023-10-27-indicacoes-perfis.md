@@ -7,7 +7,6 @@ tags:
   - Perfis e Podcasts
 toc: true
 toc_label: "Neste artigo"
- author_profile: false
 ---
 
 # Instagram
