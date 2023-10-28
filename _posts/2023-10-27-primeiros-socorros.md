@@ -1,11 +1,13 @@
 ---
 title: "Primeiros Socorros e Emergências"
 layout: single
+toc: true
+toc_label: "Neste artigo"
+author_profile: true
 categories:
   - referencias
 tags:
   - Primeiros Socorros e Emergências
-
 ---
 ## [Dermatite atópica: que doença é esta? - Sociedade Brasileira de Pediatria](https://www.sbp.com.br/especiais/pediatria-para-familias/doencas/dermatite-atopica-que-doenca-e-esta/)
 

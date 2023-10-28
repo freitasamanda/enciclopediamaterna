@@ -1,12 +1,14 @@
 ---
 title: "Psicologia infantil"
 layout: single
+toc: true
+toc_label: "Neste artigo"
+author_profile: true
 categories:
   - referencias
 tags:
   - Psicologia infantil
   - Sono
-
 ---
 
 ## [Teoria do apego: bases conceituais e desenvolvimento dos modelos internos de funcionamento - Juliana Dalbem et al, Arquivos brasileiros de psicologia, v. 57, n. 1, p. 12-24, 2005.](http://pepsic.bvsalud.org/pdf/arbp/v57n1/v57n1a03.pdf)

@@ -1,11 +1,13 @@
 ---
 title: "Indicações de Perfis e Podcasts"
 layout: single
+toc: true
+toc_label: "Neste artigo"
+author_profile: true
 categories:
   - referencias
 tags:
   - Perfis e Podcasts
-
 ---
 
 # Instagram

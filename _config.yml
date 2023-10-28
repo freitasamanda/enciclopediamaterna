@@ -283,9 +283,6 @@ defaults:
       type: posts
     values:
       layout: single
-      toc: true
-      toc_label: "Neste artigo"
-      author_profile: true
       read_time: true
       comments: false
       share: true

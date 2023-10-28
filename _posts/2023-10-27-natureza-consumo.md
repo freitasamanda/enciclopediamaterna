@@ -1,11 +1,13 @@
 ---
 title: "Natureza e consumo"
 layout: single
+toc: true
+toc_label: "Neste artigo"
+author_profile: true
 categories:
   - referencias
 tags:
   - Natureza e consumo
-
 ---
 
 ## [Manual Sobre Benefícios da Natureza para Crianças e Adolescentes - Sociedade Brasileira de Pediatria](https://www.sbp.com.br/fileadmin/user_upload/manual_orientacao_sbp_cen_.pdf)
