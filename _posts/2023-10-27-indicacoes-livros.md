@@ -23,6 +23,7 @@ Um guia prático - e baseado em evidências - com tudo que uma gestante precisa 
 
 ## [Útero: A história de onde tudo começou - Leah Hazard](https://www.amazon.com.br/Útero-história-onde-tudo-começou/dp/8542221826)
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/utero-livro.jpg)
+
 Embarque nesta jornada e descubra que, mais do que a soma de partes biológicas, o útero é capaz de influenciar a vida de todas as pessoas.
 
 Desde o nascimento até a morte, na saúde e na doença, ao longo da história e em nosso possível futuro, Útero: a história de onde tudo começou, da parteira e escritora Leah Hazard, é uma pesquisa inovadora sobre o mais milagroso e incompreendido órgão do corpo humano: o útero.
