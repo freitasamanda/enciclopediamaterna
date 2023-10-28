@@ -46,9 +46,7 @@ Trata-se de uma investigação sobre a promoção e venda de leite em pó para b
 
 Neste novo livro, Simone Davies e Junnifa Uzodike propõem que olhemos para o primeiro ano da vida de um bebê pelo viés montessoriano, O Bebê Montessori vai ajudar os pais a encontrar o apoio e a paz que desejam, enquanto aprendem a lidar com o bebê com amor e respeito. Em um passo a passo, o livro mostra aos adultos como desacelerar e alcançar um ritmo adequado para ajudar o bebê a construir confiança em si próprios, no seu ambiente, e em nós. O livro também destaca como tornar-se um observador hábil e compreender o que o bebê nos diz; e como incutir neles autoconfiança e sentimentos de alegria que beneficiam toda a família. Assim como o seu predecessor e best-seller - A Criança Montessori –, O Bebê Montessori é um livro precioso sobre parentalidade, que nos dá prazer em ler, pois as suas lindas ilustrações coloridas e o seu design limpo e arejado reforçam o tom não crítico e sem jargões, que auxiliará de forma consciente e serena pais, mães, cuidadores ou educadores no desenvolvimento sensório-motor do bebê – tudo por meio das lentes Montessori
 
-```html
-<img src="https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/mamae-livro.jpg", align="lef">
-```
+<img src="https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/mamae-livro.jpg", align="left">
 
 ## [Mamãe desobediente - Editora Timo  Livros sobre aleitamento, introdução alimentar de bebês, criação com apego, parto e muito mais!](https://www.loja.editoratimo.com.br/livros/mamae-desobediente/)
 
