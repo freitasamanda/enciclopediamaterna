@@ -5,8 +5,7 @@ categories:
   - referencias
 tags:
   - Amamentação
-toc: true
-toc_label: "Neste artigo"
+
 ---
 
 ## [e-lactancia - consulta sobre compatibilidade de medicamentos com amamentação](https://www.e-lactancia.org/)

@@ -284,6 +284,7 @@ defaults:
     values:
       layout: single
       toc: true
+      toc_label: "Neste artigo"
       author_profile: true
       read_time: true
       comments: false
@@ -297,3 +298,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
+      toc_label: "Neste artigo"

@@ -5,8 +5,7 @@ categories:
   - referencias
 tags:
   - Perfis e Podcasts
-toc: true
-toc_label: "Neste artigo"
+
 ---
 
 # Instagram

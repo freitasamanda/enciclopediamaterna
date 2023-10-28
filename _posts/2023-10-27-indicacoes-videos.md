@@ -5,9 +5,7 @@ categories:
   - referencias
 tags:
   - Vídeos
-toc: true
-toc_label: "Neste artigo"
- author_profile: true
+
 ---
 
 ## [SMAM 2021 - Dr. Carlos Gonzalez - Uso e Abuso das Curvas de peso](https://www.youtube.com/watch?v=AO2mKaem1j0)
