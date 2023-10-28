@@ -37,20 +37,3 @@ layout: archive
 <h1>Como contribuir com o projeto</h1>
 <p>Você pode divulgar o projeto em suas redes sociais, para que as informações aqui reunidas alcancem mais pessoas.</p>
 <p>Caso tenha uma sugestão de tema ou de referência, ou queira participar do projeto de outras formas, fique à vontade para entrar em contato comigo nos <i>links</i> ao lado.</p>
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
