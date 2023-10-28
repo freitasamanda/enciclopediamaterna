@@ -18,7 +18,7 @@ O livro Toda Mulher é o Mundo – Guia de Aleitamento Materno, da jornalista e 
 É um guia rápido de aleitamento, que fala sobre a amamentação de forma objetiva, informativa, coerente e consciente.
 
 ## [9 Meses - Um guia prático e baseado em evidências do positivo ao parto - Ana Jannuzzi ](https://www.amazon.com.br/Meses-prático-evidências-positivo-Jannuzzi/dp/6500738691)
-![jannuzzi-livro](assets/images/jannuzzi-livro.jpg)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/jannuzzi-livo.jpg)
 
 Um guia prático - e baseado em evidências - com tudo que uma gestante precisa saber, do positivo ao parto. Exames e consultas de pré natal, quais as principais mudanças do corpo da gestante (e como lidar com elas), como escolher a equipe e o hospital, como ter um parto humanizado e seguro para você e para o seu bebê!
 
@@ -46,10 +46,13 @@ Trata-se de uma investigação sobre a promoção e venda de leite em pó para b
 
 Neste novo livro, Simone Davies e Junnifa Uzodike propõem que olhemos para o primeiro ano da vida de um bebê pelo viés montessoriano, O Bebê Montessori vai ajudar os pais a encontrar o apoio e a paz que desejam, enquanto aprendem a lidar com o bebê com amor e respeito. Em um passo a passo, o livro mostra aos adultos como desacelerar e alcançar um ritmo adequado para ajudar o bebê a construir confiança em si próprios, no seu ambiente, e em nós. O livro também destaca como tornar-se um observador hábil e compreender o que o bebê nos diz; e como incutir neles autoconfiança e sentimentos de alegria que beneficiam toda a família. Assim como o seu predecessor e best-seller - A Criança Montessori –, O Bebê Montessori é um livro precioso sobre parentalidade, que nos dá prazer em ler, pois as suas lindas ilustrações coloridas e o seu design limpo e arejado reforçam o tom não crítico e sem jargões, que auxiliará de forma consciente e serena pais, mães, cuidadores ou educadores no desenvolvimento sensório-motor do bebê – tudo por meio das lentes Montessori
 
+```html
+<img src="https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/mamae-livro.jpg", align="lef">
+```
 
 ## [Mamãe desobediente - Editora Timo  Livros sobre aleitamento, introdução alimentar de bebês, criação com apego, parto e muito mais!](https://www.loja.editoratimo.com.br/livros/mamae-desobediente/)
 
-![toda-mulher-livro](images/toda-mulher-livro.jpg)
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/mamae-livro.jpg)
 
 Uma das maiores satisfações em publicar “Mamãe desobediente” foi o retorno que recebi de tantas mulheres que se conectaram de uma forma ou de outra com a obra, que se sentiram acompanhadas, que deram palavras a seus sentimentos, que encontraram informação, que se reconheceram nas experiências que o livro reúne, que acharam um caminho para começarem a curar suas feridas, que se indignaram, que sabem que não estão sozinhas e que não são as únicas.
 

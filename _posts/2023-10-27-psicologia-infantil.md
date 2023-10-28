@@ -10,7 +10,6 @@ tags:
   - Psicologia infantil
   - Sono
 ---
-
 ## [Teoria do apego: bases conceituais e desenvolvimento dos modelos internos de funcionamento - Juliana Dalbem et al, Arquivos brasileiros de psicologia, v. 57, n. 1, p. 12-24, 2005.](http://pepsic.bvsalud.org/pdf/arbp/v57n1/v57n1a03.pdf)
 
 >💬 *O que se compreende é que as relações de apego têm uma função-chave na transmissão de características transgeneracionais em relacionamentos entre cuidadores e suas crianças. Nesse sentido, as relações parentais e rupturas de vínculos primários por perda ou abandono têm um impacto transcendente ao desenvolvimento individual, pelo fato de que instauram um padrão internalizado de funcionamento e de interação (FONAGY, 1999). Nesses processos, as rupturas de vínculos são inevitáveis, mas, segundo J. Lewis (2000), a possibilidade de crescimento e a formação de novos laços afetivos dependerão de como essas experiências de ruptura foram vivenciadas e elaboradas.*

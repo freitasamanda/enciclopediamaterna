@@ -294,6 +294,3 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      toc: true
-      toc_label: "Neste artigo"
