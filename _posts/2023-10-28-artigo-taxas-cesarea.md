@@ -5,7 +5,7 @@ toc: true
 toc_label: "Neste artigo"
 author_profile: true
 categories:
-  - artigos
+  - Artigos
 tags:
   - Amamentação
 ---
