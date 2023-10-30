@@ -1,6 +1,7 @@
 ---
 title: "Indicações de Perfis e Podcasts"
 layout: single
+excerpt: "indicações de perfis em redes sociais e podcasts"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

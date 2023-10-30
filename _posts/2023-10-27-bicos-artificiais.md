@@ -1,6 +1,7 @@
 ---
 title: "Bicos Artificiais"
 layout: single
+excerpt: "efeitos do uso de chupetas e mamadeiras, leis e relatórios sobre bicos artificiais e evidências sobre sucção"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

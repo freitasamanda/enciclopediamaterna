@@ -1,6 +1,7 @@
 ---
 title: "Amamentação"
 layout: single
+excerpt: "conteúdos sobre o direito de amamentar, como assegurar esse direito e taxas de amamentação"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

@@ -1,6 +1,7 @@
 ---
 title: "Indicações de vídeos"
 layout: single
+excerpt: "indicações de vídeos com aulas, palestras e vídeos curtos, principalmente no Instagram e Youtube"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

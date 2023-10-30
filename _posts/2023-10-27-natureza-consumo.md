@@ -1,6 +1,7 @@
 ---
 title: "Natureza e consumo"
 layout: single
+excerpt: "sobre contato com a natureza na infância, consumismo e efeitos da publicidade infantil"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

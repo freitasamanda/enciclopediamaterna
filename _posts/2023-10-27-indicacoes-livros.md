@@ -1,6 +1,7 @@
 ---
 title: "Indicações de livros"
 layout: single
+excerpt: "indicações de livros com breve sinopse"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

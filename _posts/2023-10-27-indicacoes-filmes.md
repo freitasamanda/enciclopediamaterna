@@ -1,6 +1,7 @@
 ---
 title: "Indicações de filmes"
 layout: single
+excerpt: "indicações de filmes com breve sinopse"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

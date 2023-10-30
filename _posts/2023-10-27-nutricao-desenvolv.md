@@ -1,6 +1,7 @@
 ---
 title: "Nutrição e desenvolvimento"
 layout: single
+excerpt: "sobre alimentação e curvas de crescimento"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

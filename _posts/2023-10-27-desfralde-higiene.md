@@ -1,6 +1,7 @@
 ---
 title: "Desfralde e higiene natural"
 layout: single
+excerpt: "conteúdos relacionados a fraldas, higiene e desfralde"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

@@ -1,6 +1,7 @@
 ---
 title: "Grávidas e lactantes podem fazer tatuagem e colocar piercing? Explorando um tópico pouco estudado"
 layout: single
+excerpt:
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

@@ -1,7 +1,7 @@
 ---
 title: "Psicologia infantil"
 layout: single
-excerpt:
+excerpt: "Sobre teoria do apego, sono e comportamento"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true

@@ -1,6 +1,7 @@
 ---
 title: "Primeiros Socorros e Emergências"
 layout: single
+excerpt: "emergências médicas e patologias"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
