@@ -1,6 +1,7 @@
 ---
 title: "Psicologia infantil"
 layout: single
+excerpt:
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
