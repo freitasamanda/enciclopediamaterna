@@ -1,3 +1,10 @@
+# tarefas
+- Comprar o domínio enciclopediamaterna.com.br por 40 reais
+- criar perfil do insta
+- criar identidades visuais
+- criar calendario de conteúdo pro insta
+- terminar de formatar o site, diminuindo o tamanho das fontes e revendo erros de digitação
+
 # Enciclopédia Materna: compilado de referencias para uma maternidade empoderada
 freitasamanda.github.io
 Autora: Amanda Freitas
@@ -89,7 +96,3 @@ Além de utilizar para consulta pessoal, você pode divulgar este projeto para m
 
 
 # REFERÊNCIAS PARA ADICIONAR
-
-- https://www.instagram.com/p/Cy3Bta7gr0g/?igshid=NjFhOGMzYTE3ZQ== pegar essa ref e colocar em desenvolvimento infantil
-
-
