@@ -26,6 +26,11 @@ toda segunda-feira
 18/12 - post6 - a importância da natureza na infância
 25/12 - post7 - sobre consumismo na infância
 
+# OUTRAS IDEIAS
+
+
+
+
 
 ---
 
@@ -77,9 +82,9 @@ Leia essas e mais referências sobre bicos artificiais no nosso site, clicando n
 primeira imagem o parágrafo abaixo
 segunda imagem o primeiro parágrafo do artigo
 
-Este artigo é praticamente um manifesto do projeto Enciclopédia Materna, e expõe as motivações por trás da perspectiva de se cultivar uma maternidade baseada em evidências sem, no entanto, perder a perspectiva feminista de libertação das mulheres e mães, e a conexão da luta feminista com o anticapitalismo. 
+Este artigo expõe as motivações por trás da perspectiva de se cultivar uma maternidade baseada em evidências sem, no entanto, perder a perspectiva feminista de libertação das mulheres e mães, e a conexão da luta feminista com o anticapitalismo. De certo modo, é um manifesto do projeto Enciclopédia Materna.
 
-O argumento central é o de que referências sobre maternidade, amamentação e parto devem ser sempre lidas com senso crítico baseado no empoderamento de mães, tendo em vista os conflitos de interesses por trás da literatura médica devido ao próprio capitalismo e patriarcado e seus papeis na fundação da obstetrícia e pediatria modernas.
+O argumento central é o de que referências sobre maternidade, amamentação e parto devem ser sempre lidas com senso crítico baseado no empoderamento de mulheres-mães, tendo em vista os conflitos de interesses por trás da literatura médica devido ao próprio capitalismo e patriarcado e seus papeis na fundação da obstetrícia e pediatria modernas.
 
 Leia o artigo completo no link na bio!
 
@@ -87,7 +92,7 @@ Leia o artigo completo no link na bio!
 
 #  POST 4 - "Grávidas e lactantes podem fazer tatuagem e colocar piercing? Explorando um tópico pouco estudado"
 
-Na busca por artigos sobre tatuagem durante a gravidez e amamentação, me chamou atenção os pouquíssimos resultados em bases de artigos como PubMed e Web of Science. As pesquisas médicas sobre tatuagem e piercing em grávidas e lactantes são permeadas por estigmas sociais e carecem de evidências sólidas para sua contraindicação, demonstrando que a orientação sobre não fazer tatuagens amamentando ou grávida vem mais do ponto de vista individual dos profissionais,dado que apenas recentemente o assunto realmente começou a ser investigado, e os poucos resultados mostram que os prejuízos na prática podem ser menores do que se imaginava, ou até mesmo inexistentes.
+Na busca por artigos sobre tatuagem durante a gravidez e amamentação, me chamou atenção os pouquíssimos resultados em bases de artigos como PubMed e Web of Science. As pesquisas da área de saúde sobre tatuagem e piercing em grávidas e lactantes são permeadas por estigmas sociais e carecem de evidências sólidas para sua contraindicação, demonstrando que a orientação sobre não fazer tatuagens amamentando ou grávida vem mais do ponto de vista individual dos profissionais, dado que apenas recentemente o assunto realmente começou a ser investigado, e os poucos resultados mostram que os prejuízos na prática podem ser menores do que se imaginava, ou até mesmo inexistentes.
 
 Leia o artigo completo no link na bio!
 
@@ -115,5 +120,4 @@ Resumo que nem o dos bicos só que sobre as refs na página de natureza e consum
 
 ---
 
-# POST 7 - A importância do contato com a natureza na infância
-Resumo que nem o dos bicos só que sobre as refs na página de natureza e consumo
+# POST 7 - 
