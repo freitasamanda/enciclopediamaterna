@@ -7,11 +7,67 @@
 
 
 # REFERÊNCIAS PARA ADICIONAR
+https://gabriellegimenez.com/2018/09/10/a-evolucao-do-sono-dos-bebes/ PSICOLOGIA INFANTIL
 
-- PREMATURIDADE
+https://www.scielo.br/j/rlae/a/wkF9jjk97BQWK4HWGYPZ8Fx/ AMAMENTAÇÃO
+
+https://periodicos.uem.br/ojs/index.php/CiencCuidSaude/article/download/5052/3258/0 amamentação
+
+https://repositorio.ufc.br/handle/riufc/12491 AMAMENTAÇÃO
+
+https://rmmg.org/artigo/detalhes/1413 AMAMENTAÇÃO
 
 
+https://editoratimo.com.br/2023/11/novas-diretrizes-da-oms-requalificam-formulas-para-bebes-mais-velhos-e-criancas/?fbclid=PAAaZ-IVEU5timVSJ6DZ5WCMd55rbULDjlu24Zx48IJuX4_mKxdkEtR2cjl7w - NUTRIÇÃO
+
+https://www.instagram.com/p/Cy6CIxOAUG1/?igshid=NjFhOGMzYTE3ZQ%3D%3D NUTRIÇÃO
+
+https://eigierdiagnosticos.com.br/blog/quando-fazer-ultrassom-doppler-gravidez/ PARTO
+
+https://www.clinicaceu.com.br/blog/como-funciona-o-ultrassom-com-doppler/
+
+- PREMATURIDADE colocar todos em parto
+https://www.promatre.com.br/causas-prematuridade/
+
+https://www.scielo.br/j/ean/a/rYLmLFg393yYQmYLztrZ9PL/?lang=pt
+
+https://www.msdmanuals.com/pt-br/casa/problemas-de-sa%C3%BAde-infantil/problemas-gerais-em-rec%C3%A9m-nascidos/rec%C3%A9m-nascido-prematuro
+
+https://www.rededorsaoluiz.com.br/maternidade/noticias/artigo/prematuridade-o-que-e-e-quais-sao-os-seus-fatores-de-risco
+
+https://www.msdmanuals.com/pt-br/profissional/pediatria/problemas-perinatais/prematuros
+
+
+- LICENÇA PATERNIDADE
+https://blog.convenia.com.br/licenca-paternidade/
+
+https://g1.globo.com/politica/noticia/2023/08/10/licenca-paternidade-entenda-por-que-grupo-de-trabalho-na-camara-e-ativistas-lutam-para-aumentar-beneficio-de-5-dias.ghtml
+
+https://www2.camara.leg.br/a-camara/estruturaadm/secretarias/secretaria-da-mulher/noticias/debatedores-defendem-ampliacao-da-licenca-paternidade-no-pais
+
+https://www.scielo.br/j/rbepop/a/C4BRKdByN9KRZ5RkWtKbnXM/
+
+https://www.jusbrasil.com.br/artigos/a-prorrogacao-da-licenca-paternidade-deve-valer-a-todos-os-trabalhadores/348679132
+
+https://www12.senado.leg.br/noticias/materias/2016/07/06/beneficios-da-ampliacao-da-licenca-paternidade-sao-maiores-do-que-o-custo-dizem-especialistas
+
+https://editoratimo.com.br/2023/08/dia-dos-pais-o-que-temos-para-comemorar/
+
+
+- ECONOMIA DO CUIDADO
+https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/comissao-de-defesa-dos-direitos-da-mulher-cmulher/arquivos-de-audio-e-video/cartilha-economia-do-cuidado-pib-da-vassoura
+
+https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/37621-em-2022-mulheres-dedicaram-9-6-horas-por-semana-a-mais-do-que-os-homens-aos-afazeres-domesticos-ou-ao-cuidado-de-pessoas
+
+https://editoratimo.com.br/2023/08/o-trabalho-do-cuidado-e-feminino-e-o-preco-e-alto/
+
+# LIVROS
+
+https://www.amazon.com.br/Pensamento-feminista-hoje-Perspectivas-decoloniais/dp/856992478X?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=XJ6OFLDNER48&keywords=Pensamento+feminista+hoje&qid=1699189526&sprefix=pensamento+feminista+hoje,aps,256&sr=8-1&linkCode=sl1&tag=leiasobremaes-20&linkId=1f483f774b9f00948eabf65388e3a981&language=pt_BR&ref_=as_li_ss_tl&fbclid=PAAaYNfIhhrncGB5_SGoQqSFZhIhhoqUPAEmW5K6VMu-9WhREfI3Yloqj5l4k
+
+https://agenciabrasil.ebc.com.br/economia/noticia/2020-06/ibge-mulher-tem-peso-importante-no-chamado-trabalho-invisivel
 ---
+
 
 # TEMAS DE INSPIRAÇÃO
 ## https://editoratimo.com.br/2023/11/novas-diretrizes-da-oms-requalificam-formulas-para-bebes-mais-velhos-e-criancas/?fbclid=PAAaZ-IVEU5timVSJ6DZ5WCMd55rbULDjlu24Zx48IJuX4_mKxdkEtR2cjl7w
