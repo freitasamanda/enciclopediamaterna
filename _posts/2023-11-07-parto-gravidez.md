@@ -1,5 +1,5 @@
 ---
-title: "Parto"
+title: "Parto e Gravidez"
 layout: single
 excerpt: "sobre parto humanizado, taxas de cesárea e questões relacionadas à gestação"
 toc: true
@@ -9,6 +9,7 @@ categories:
   - referencias
 tags:
   - Parto
+  - Gravidez
 ---
 ## [Painel de Indicadores de Atenção Materna e Neonatal - ANS](https://app.powerbi.com/view?r=eyJrIjoiYzBjZGI5YmMtOTExNy00MjVhLTk2NmMtN2NiOTYyNWVhYWE1IiwidCI6IjlkYmE0ODBjLTRmYTctNDJmNC1iYmEzLTBmYjEzNzVmYmU1ZiJ9)
 Consulte a taxa de cesárea no hospital em que você pretende parir no link abaixo.
@@ -30,3 +31,8 @@ Consulte a taxa de cesárea no hospital em que você pretende parir no link abai
 [FARR, Alex et al. Human placentophagy: a review. American journal of obstetrics and gynecology, v. 218, n. 4, p. 401. e1-401. e11, 2018.](https://doi.org/10.1016/j.ajog.2017.08.016). Trecho em tradução livre por Amanda Freitas:
 > 💬 *Inúmeras empresas oferecem o preparo da placenta para consumo, apesar da evidência de efeitos positivos de placentofagia humana ser anedótica e limitada a surveys de auto-relato. Sem nenhuma evidência científica, indivíduos promovendo a placentofagia, especialmente na forma de cápsulas, afirmam que ela está associada a certos benefícios físicos e psicossociais. Nós encontramos que não há evidência científica de nenhum benefício clínico na placentofagia entre humanos, e nenhum nutriente ou hormônio placentário é mantido em quantidades suficientes após encapsulamento de placentas para que ofereça benefícios potenciais à mulheres no pós-parto. [...] Em conclusão, não há nenhuma responsabilidade profissional em médicos que ofereçam a placentofagia para mulheres. Além disso, porque a placentofagia é potencialmente prejudicial à saúde e não tem benefícios documentados, o conselho para as pacientes deve ser claro e direto: médicos devem desencorajar essa prática.*
 
+## [Fatores de risco para prematuridade: pesquisa documental - RAMOS, Helena Ângela de Camargo; CUMAN, Roberto Kenji Nakamura.  Escola Anna Nery, v. 13, p. 297-304, 2009.](https://www.scielo.br/j/ean/a/rYLmLFg393yYQmYLztrZ9PL/?lang=pt)
+
+## [Recém-nascidos prematuros (pré-termo) - Arcangela Lattari Balest , MD, University of Pittsburgh, School of Medicine](https://www.msdmanuals.com/pt-br/casa/problemas-de-saúde-infantil/problemas-gerais-em-recém-nascidos/recém-nascido-prematuro)
+
+## [Prematuros - Arcangela Lattari Balest , MD, University of Pittsburgh, School of Medicine](https://www.msdmanuals.com/pt-br/profissional/pediatria/problemas-perinatais/prematuros)
