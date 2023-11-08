@@ -222,11 +222,11 @@ Resumo que nem o dos bicos só que sobre as refs na página de natureza e consum
 # RESUMO DO SITE
 
 ## Enciclopédia Materna: compilado de referencias para uma maternidade empoderada
-freitasamanda.github.io
+enciclopediamaterna.com.br
 Autora: Amanda Freitas
 Bio: Mestranda em Ciência Polítaaaica (USP), Cientista Social (UNIFESP), criadora do projeto Enciclopédia Materna
 freitas.amanda@usp.br"
-curriculo "https://freitasamanda.github.io"
+curriculo "https://enciclopediamaterna.com.br"
 github https://github.com/freitasamanda"
 instagram "@mandyfreitas19"
 
