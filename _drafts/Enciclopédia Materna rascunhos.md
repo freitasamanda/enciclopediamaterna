@@ -226,7 +226,7 @@ enciclopediamaterna.com.br
 Autora: Amanda Freitas
 Bio: Mestranda em Ciência Polítaaaica (USP), Cientista Social (UNIFESP), criadora do projeto Enciclopédia Materna
 freitas.amanda@usp.br"
-curriculo "https://enciclopediamaterna.com.br"
+curriculo "https://freitasamanda.github.io"
 github https://github.com/freitasamanda"
 instagram "@mandyfreitas19"
 
