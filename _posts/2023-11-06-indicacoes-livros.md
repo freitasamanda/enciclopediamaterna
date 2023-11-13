@@ -18,11 +18,15 @@ O livro Toda Mulher é o Mundo – Guia de Aleitamento Materno, da jornalista e 
 
 É um guia rápido de aleitamento, que fala sobre a amamentação de forma objetiva, informativa, coerente e consciente.
 
+----
+
 ## [9 Meses - Um guia prático e baseado em evidências do positivo ao parto - Ana Jannuzzi](https://www.amazon.com.br/Meses-prático-evidências-positivo-Jannuzzi/dp/6500738691)
 
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/jannuzzi-livo.jpg)
 
 Um guia prático - e baseado em evidências - com tudo que uma gestante precisa saber, do positivo ao parto. Exames e consultas de pré natal, quais as principais mudanças do corpo da gestante (e como lidar com elas), como escolher a equipe e o hospital, como ter um parto humanizado e seguro para você e para o seu bebê!
+
+----
 
 ## [Útero: A história de onde tudo começou - Leah Hazard](https://www.amazon.com.br/Útero-história-onde-tudo-começou/dp/8542221826)
 
@@ -38,6 +42,8 @@ Com uma linguagem afetuosa e bem-humorada, Hazard aborda questões urgentes, com
 
 Um livro que propõe um novo olhar sobre um órgão que nos traz, ao mesmo tempo, dor e prazer. Uma pequena parte de nossos corpos com um impacto muito maior do que jamais pensamos ser possível.
 
+----
+
 ## [O Matador de Bebês: uma investigação da War on Want sobre a promoção e venda de fórmula infantil para bebês, no Terceiro Mundo - Mike Muller, War on Want, Fernando Figueira](http://higia.imip.org.br/handle/123456789/947)
 
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/matador-livro.PNG)
@@ -46,11 +52,15 @@ O professor Fernando Figueira, na década de 1970, traduziu para o português o 
 
 Trata-se de uma investigação sobre a promoção e venda de leite em pó para bebês do Terceiro Mundo. Essa publicação levou o boicote a grandes empresas da indústria de laticínios, destacando a Nestlé que desde à época da investigação tem uma forte atuação no mercado brasileiro. Traduzido para várias línguas e distribuído para todo o mundo, no Brasil, The Baby Killer foi traduzido pelo Prof. Fernando Figueira e publicado pelo IMIP em duas edições: a primeira em 1981 e a segunda em 1995.
 
+----
+
 ## [O Bebê Montessori: Guia para criar bebês com amor, respeito e compreensão - ](https://www.amazon.com.br/Bebê-Montessori-criar-respeito-compreensão/dp/6587638627)
 
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/montessori-livro.jpg)
 
 Neste novo livro, Simone Davies e Junnifa Uzodike propõem que olhemos para o primeiro ano da vida de um bebê pelo viés montessoriano, O Bebê Montessori vai ajudar os pais a encontrar o apoio e a paz que desejam, enquanto aprendem a lidar com o bebê com amor e respeito. Em um passo a passo, o livro mostra aos adultos como desacelerar e alcançar um ritmo adequado para ajudar o bebê a construir confiança em si próprios, no seu ambiente, e em nós. O livro também destaca como tornar-se um observador hábil e compreender o que o bebê nos diz; e como incutir neles autoconfiança e sentimentos de alegria que beneficiam toda a família. Assim como o seu predecessor e best-seller - A Criança Montessori –, O Bebê Montessori é um livro precioso sobre parentalidade, que nos dá prazer em ler, pois as suas lindas ilustrações coloridas e o seu design limpo e arejado reforçam o tom não crítico e sem jargões, que auxiliará de forma consciente e serena pais, mães, cuidadores ou educadores no desenvolvimento sensório-motor do bebê – tudo por meio das lentes Montessori
+
+----
 
 ## [Mamãe desobediente: um olhar feminista sobre a maternidade - Esther Viavas](https://www.loja.editoratimo.com.br/livros/mamae-desobediente/)
 
@@ -62,6 +72,8 @@ Muitos profissionais da saúde que acompanham mulheres na gravidez, no parto e n
 
 Espero que esta edição no Brasil chegue a muitas mulheres, sejam elas mães ou não, e a muitos homens, porque a maternidade e a criação nos implicam a todos. Nestas páginas, escrevo sobre maternidade a partir da minha própria experiência como mãe e a partir de uma perspectiva feminista, e abordo um amplo leque de temas, normalmente silenciados, como os problemas de infertilidade, a dor de uma perda gestacional, a violência obstétrica, a depressão pós-parto, a impossível conciliação ou as dificuldades para dar de mamar na sociedade atual, entre outras questões. Confio que aqui vocês encontrarão respostas, refúgio, sororidade e apoio.
 
+----
+
 ## [O Ponto Zero da Revolução: Trabalho Doméstico, Reprodução e Luta Feminista - Silvia Federici](https://www.amazon.com.br/Ponto-Zero-Silvia-Federici/dp/8593115268)
 
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/federici-livro.png)
@@ -70,6 +82,8 @@ Nas palavras de Silvia Federici, o “ponto zero” é tanto um lugar de perda c
 
 Eu hesitei por algum tempo em publicar um volume de ensaios voltado exclusivamente para a questão da “reprodução”, já que me parecia artificialmente abstrato separá-la dos variados temas e lutas aos quais tenho dedicado meu trabalho ao longo de tantos anos. Há, no entanto, uma lógica por trás do conjunto de textos nesta coletânea: a questão da reprodução, compreendida como o complexo de atividades e relações por meio das quais nossa vida e nosso trabalho são reconstituídos diariamente, tem sido o fio condutor dos meus escritos e ativismo político. A confrontação com o “trabalho reprodutivo” ― entendido, primeiramente, como trabalho doméstico ― foi o fator determinante para muitas mulheres da minha geração, que cresceram após a Segunda Guerra Mundial. Depois de dois conflitos mundiais que, no intervalo de três décadas, dizimaram mais de 70 milhões de pessoas, os atrativos da domesticidade e a perspectiva de nos sacrificarmos para produzir mais trabalhadores e soldados para o Estado não faziam mais parte do nosso imaginário. Na verdade, mais do que a experiência de autoconfiança concedida pela guerra a muitas mulheres ― simbolizada nos Estados Unidos pela imagem icônica de Rosie the Riveter [Rosie, a rebitadeira] ―, o que moldou nossa relação com a reprodução no pós-guerra, sobretudo na Europa, foi a memória da carnificina na qual nascemos. Este capítulo da história do movimento feminista internacional ainda precisa ser escrito. No entanto, ao recordar-me das visitas que fiz com a escola, ainda criança na Itália, às exposições nos campos de concentração, ou das conversas na mesa de jantar sobre a quantidade de vezes que escapamos de morrer bombardeados, correndo no meio da noite à procura de abrigo sob um céu em chamas, não posso deixar de me questionar sobre o quanto essas experiências pesaram para que eu e outras mulheres decidíssemos não ter filhos nem nos tornar donas de casa. […] Atualmente, sobretudo entre mulheres mais jovens, essa problemática pode parecer ultrapassada, porque elas têm uma possibilidade maior de escapar desse trabalho quando são mais novas. Inclusive, em comparação com a minha geração, as jovens mulheres de hoje têm maior autonomia e independência com relação aos homens. No entanto, o trabalho doméstico não desapareceu, e sua desvalorização, financeira e de outros tipos, continua a ser um problema para muitas de nós, seja ele remunerado ou não. Ademais, depois de quatro décadas com as mulheres trabalhando fora de casa em regime de tempo integral, não se pode sustentar o pressuposto das feministas da década de 1970 de que o trabalho assalariado seria um caminho para a “libertação”. ― Silvia Federici.
 
+----
+
 ## [Patriarcado e Acumulação em Escala Mundial - Maria Mies](https://www.loja.editoratimo.com.br/maternidade-e-paternidade/patriarcado-acumulacao-em-escala-mundial)
 
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/maria-mies-livro.png)
@@ -77,6 +91,8 @@ Eu hesitei por algum tempo em publicar um volume de ensaios voltado exclusivamen
 "Como Mies coloca, as mulheres não são um grupo particular de seres humanos entre outros; elas são aquelas que, em todos os tempos e em todas as sociedades, produziram vida no planeta e de cujo trabalho dependem, portanto, todas as demais atividades. Assim, rastrear as origens da exploração das mulheres é perguntar por que e onde a história ‘deu um passo errado’, quais são as forças impulsionadoras da história mundial e qual é a verdade do sistema capitalista em que vivemos. Essa é a missão assumida por Patriarcado e acumulação, e o resultado é a reconstrução histórica e teórica cujo escopo tem sido definido por ‘arrebatador’.” - Silvia Federici
 
 MARIA MIES é feminista marxista alemã e conhecida mundialmente por sua teoria do patriarcado capitalista, que reconhece as mulheres e a diferença do terceiro mundo. Professora de Sociologia na Universidade de Ciências Aplicadas de Colônia, na Alemanha, aposentou-se em 1993. É militante feminista desde o final dos anos 1960. Em 1979, no Instituto de Estudos Sociais em Haia, fundou o programa Mulheres e Desenvolvimento. É autora de livros e artigos sobre temas relacionados ao feminismo, terceiro mundo e meio ambiente. Entre outros títulos, estão The Lace MakersofNarsapur (As rendeiras de Narsapur) (1982), The LastColony (A última colônia) (1988), The Subsistence Perspective (A perspectiva da subsistência) (1999) e Ecofeminism (Ecofeminismo) (2014).
+
+----
 
 ## [Mulher, Estado e Revolução: Política da Família Soviética e da Vida Social Entre 1917 e 1936 - Wendy Goldman](https://www.amazon.com.br/Mulher-Estado-Revolução-Wendy-Goldman/dp/8575593641)
 

@@ -12,7 +12,7 @@ tags:
   - Gravidez
 ---
 ## [Painel de Indicadores de Atenção Materna e Neonatal - ANS](https://app.powerbi.com/view?r=eyJrIjoiYzBjZGI5YmMtOTExNy00MjVhLTk2NmMtN2NiOTYyNWVhYWE1IiwidCI6IjlkYmE0ODBjLTRmYTctNDJmNC1iYmEzLTBmYjEzNzVmYmU1ZiJ9)
-Consulte a taxa de cesárea no hospital em que você pretende parir no link abaixo.
+Consulte a taxa de cesárea no hospital em que você pretende parir no link acima.
 
 ## [Manual técnico das casas de parto do município de São Paulo](https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/manual_tecnico_das_casas_de_parto_23_4_2019.pdf)
 
@@ -25,6 +25,7 @@ Consulte a taxa de cesárea no hospital em que você pretende parir no link abai
 ## [Classificação de Robson - Fiocruz](https://www.arca.fiocruz.br/bitstream/handle/icict/29751/CLASSIFICA%C7%C3O%20DE%20ROBSON.pdf;jsessionid=38218267F66E27BA8C20C7AB7E1575A1?sequence=2)
 
 ![classificacao-robson-infografico](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/classificacao-robson-infografico.png)
+
 ![classificacao-robson](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/classificacao-robson.jpg)
 
 ## Desmistificando benefícios da placentofagia
