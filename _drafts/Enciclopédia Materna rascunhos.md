@@ -15,10 +15,12 @@ https://www.amazon.com.br/Pensamento-feminista-hoje-Perspectivas-decoloniais/dp/
 
 ## leis
 https://blog.convenia.com.br/licenca-paternidade/
-https://g1.globo.com/politica/noticia/2023/08/10/licenca-paternidade-entenda-por-que-grupo-de-trabalho-na-camara-e-ativistas-lutam-para-aumentar-beneficio-de-5-dias.ghtml
+
 https://www2.camara.leg.br/a-camara/estruturaadm/secretarias/secretaria-da-mulher/noticias/debatedores-defendem-ampliacao-da-licenca-paternidade-no-pais
-https://www.scielo.br/j/rbepop/a/C4BRKdByN9KRZ5RkWtKbnXM/
+
+
 https://www.jusbrasil.com.br/artigos/a-prorrogacao-da-licenca-paternidade-deve-valer-a-todos-os-trabalhadores/348679132
+
 https://www12.senado.leg.br/noticias/materias/2016/07/06/beneficios-da-ampliacao-da-licenca-paternidade-sao-maiores-do-que-o-custo-dizem-especialistas
 
 ## natureza e consumo
@@ -36,16 +38,13 @@ Reais indicações de cesariana - Ana Jannuzi
 
 
 ## psicologia infantil
-https://gabriellegimenez.com/2018/09/10/a-evolucao-do-sono-dos-bebes/
-https://calculadora.leitematernonaescola.com.br
 
 ## tela
 
 
 ## amamentação
-https://www.scielo.br/j/rlae/a/wkF9jjk97BQWK4HWGYPZ8Fx/ 
-https://periodicos.uem.br/ojs/index.php/CiencCuidSaude/article/download/5052/3258/0
 https://repositorio.ufc.br/handle/riufc/12491
+
 https://rmmg.org/artigo/detalhes/1413
 
 
