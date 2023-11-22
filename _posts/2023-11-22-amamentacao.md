@@ -46,3 +46,19 @@ Trecho em tradução livre por Amanda Freitas:
 ## [Aleitamento materno e as crenças alimentares](https://www.scielo.br/j/rlae/a/wkF9jjk97BQWK4HWGYPZ8Fx/)
 ICHISATO, Sueli Mutsumi Tsukuda; SHIMO, Antonieta Keiko Kakuda. Aleitamento materno e as crenças alimentares. Revista Latino-Americana de Enfermagem, v. 9, p. 70-76, 2001.
 >💬*A hipogalactia tem levado ao desmame precoce. As crenças e os tabus influenciam a alimentação materna durante a lactação. O presente estudo tem como objetivo identificar lactogogos regionais utilizados como suporte do aleitamento materno (AM), pautados nos tabus e crenças. Trata-se de um estudo de caso utilizando a análise de prosa(12). Alimentar-se ou não de certos alimentos, ter vivenciado a amamentação, as crenças transmitidas por familiares e médicos, crescimento e desenvolvimento da criança foram os fatores que estimularam o AM na nossa pesquisa*
+
+## [Como nasce o leite materno? - A mulher que engoliu o mundo (Verônica Linder)](https://www.youtube.com/watch?v=HU8QhctAzLA)
+
+## [Uso de galactagogos na prática clínica para o manejo do aleitamento materno](https://rmmg.org/artigo/detalhes/1413)
+
+CHAVES, Roberto Gomes et al. Uso de galactagogos na prática clínica para o manejo do aleitamento materno. Rev Med Minas Gerais, v. 18, n. 4 Supl 1, p. S146-S153, 2008.
+
+> 💬*"O mecanismo de ação de alguns medicamentos e de plantas com relato de efeito galactagogo ainda são desconhecidos. Antes de indicar galactagogos é necessário avaliar freqüência e técnica da amamentação; uma vez que, a baixa produção do leite pode estar associada com técnica inadequada da amamentação, esvaziamento incompleto das mamas e baixa freqüência das mamadas Por conseguinte, grande parte dos problemas em aleitamento materno pode ser prevenido e solucionado com conhecidas práticas que mantenham a lactação fisiológica, como amamentação sob livre demanda, pega adequada do complexo aréolo-mamilar e esvaziamento das mamas."*
+
+> 💬 *Anderson e Valdés5 realizaram extensa revisão sobre estudos que procuraram determinar a eficácia dos galactagogos baseados no aumento do volume de leite ou no ganho ponderal dos lactentes. Os autores concluíram que a maioria das publicações sobre os galactagogos não foi baseada na moderna padronização da medicina baseada em evidências, incluindo trabalhos duplo-cegos, randomizados e controlados com placebo. Muitos estudos foram realizados antes do conhecimento acerca das técnicas corretas de aleitamento e da necessidade da amamentação sob livre demanda.*
+
+> 💬 *Uso de galactagogos deve ser reservado para situações após serem descartadas as causas tratáveis de hipogalactia (p.e. hipotireoidismo materno ou uso de medicamentos) e principalmente, após a avaliação da técnica da amamentação, do aumento da freqüência das mamadas e do esvaziamento das mamas.[...] Evidências sugerem que com assistência nas técnicas de aleitamento, pelo menos 97% das mulheres conseguem amamentar seus filhos com sucesso.*
+
+> 💬 *Não há comprovação da correlação direta entre níveis de prolactina sérica e maior período de aleitamento em mulheres em uso de galactagogos. O uso profilático de galactagogos em pacientes não selecionadas que supostamente poderao apresentar dificuldades com a amamentação, como mulheres submetidas a cesareana ou maes de prematuros, parece não apresentar benefícios. Previamente ao uso dos galactagogos, a avaliação e a correção de qualquer fator modificável como a freqüência e a técnica da amamentação devem ser avaliadas. A prescrição de galactagogos deve ser realizada somente após constatada falha nestas medidas.*
+
+> 💬 *Caso as maes sejam adequadamente orientadas sobre as técnicas da amamentação de forma a sustentar a lactação fisiológica, os galactagogos parecem ter pouco ou nenhum efeito.*

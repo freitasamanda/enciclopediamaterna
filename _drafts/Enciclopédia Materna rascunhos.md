@@ -3,32 +3,19 @@
 
 ## bicos artificiais
 
-
 ## desfralde higiene
-
+Higiene natural procurar artigos
 
 ## desmame
-
 
 ## filmes, perfis, vídeo, livros
 https://www.amazon.com.br/Pensamento-feminista-hoje-Perspectivas-decoloniais/dp/856992478X?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=XJ6OFLDNER48&keywords=Pensamento+feminista+hoje&qid=1699189526&sprefix=pensamento+feminista+hoje,aps,256&sr=8-1&linkCode=sl1&tag=leiasobremaes-20&linkId=1f483f774b9f00948eabf65388e3a981&language=pt_BR&ref_=as_li_ss_tl&fbclid=PAAaYNfIhhrncGB5_SGoQqSFZhIhhoqUPAEmW5K6VMu-9WhREfI3Yloqj5l4k
 
 ## leis
-https://blog.convenia.com.br/licenca-paternidade/
-
-https://www2.camara.leg.br/a-camara/estruturaadm/secretarias/secretaria-da-mulher/noticias/debatedores-defendem-ampliacao-da-licenca-paternidade-no-pais
-
-
-https://www.jusbrasil.com.br/artigos/a-prorrogacao-da-licenca-paternidade-deve-valer-a-todos-os-trabalhadores/348679132
-
-https://www12.senado.leg.br/noticias/materias/2016/07/06/beneficios-da-ampliacao-da-licenca-paternidade-sao-maiores-do-que-o-custo-dizem-especialistas
 
 ## natureza e consumo
 
-
 ## nutri e desenvolv
-https://editoratimo.com.br/2023/11/novas-diretrizes-da-oms-requalificam-formulas-para-bebes-mais-velhos-e-criancas/?fbclid=PAAaZ-IVEU5timVSJ6DZ5WCMd55rbULDjlu24Zx48IJuX4_mKxdkEtR2cjl7w
-https://www.instagram.com/p/Cy6CIxOAUG1/?igshid=NjFhOGMzYTE3ZQ%3D%3D 
 
 ## parto e gravidez
 
@@ -36,20 +23,11 @@ Reais indicações de cesariana - Ana Jannuzi
 
 ## primeiros socorros
 
-
 ## psicologia infantil
 
 ## tela
 
-
 ## amamentação
-https://repositorio.ufc.br/handle/riufc/12491
-
-https://rmmg.org/artigo/detalhes/1413
-
-
-
-
 
 
 --- 
@@ -77,15 +55,25 @@ https://agenciabrasil.ebc.com.br/economia/noticia/2020-06/ibge-mulher-tem-peso-i
 
 ## Maternidade científica - uma faca de dois gumes
 
-Sobre as motivações do meu projeto mas a linha tênue entre se apropriar de pesquisas científicas sobre maternidade e parto e a reflexão das páginas 85 a 87 do livro mamãe desobediente
+A linha tênue entre se apropriar de pesquisas científicas sobre maternidade e parto
 
-Começo fazendo um resumo do apanhado histórico dessa parte do livro
+A reflexão das páginas 85 a 87 do livro mamãe desobediente
+
+Começo fazendo um resumo do apanhado histórico dessa parte do livro, historicidade da obstetrícia, a questão das parteiras e doulas e etc.
 
 Aí parto do último parágrafo da página 87
 
 Falo sobre conflito de interesses e exponho mais o que é entender o emaranhado de interesses políticos e econômicos por trás da prática médica
 
 Falo sobre pesquisa científica, como se fundamental, e como ler artigos científicos de modo crítico, sempre mantendo uma ótica feminista e anticapitalista, é o caminho que acredito ser o ideal para uma maternidade empoderada, norteadora do meu projeto
+
+Maternidade, parto e amamentação são assuntos multidisciplinares. Apenas informações do ponto de vista médico, biológico e fisiológico não dão conta da realidade pois, como Verônica Linder (CITAÇÃO) nos relembra, somos um misto de cultura e natureza. Amamentar e parir é natural, porém fatores culturais, sociais, políticos e econômicos atravessam essas realidades. Tendo sempre em vista que vivemos numa sociedade patriarcal e capitalista, precisamos nos atentar ao fato de que os corpos das mulheres são vistos de forma extremamente estigmatizada, passam por diversos mecanismos de controle político e econômicos, e também somos pertencentes da classe trabalhadora, com nossa força de trabalho explorada visando ao lucro. 
+
+Estudar sobre maternidade, parto e amamentação portanto não se resume a estudar sobre biologia, fisiologia, ler artigos científicos da área médica e de saúde. Envolve estudar também as políticas públicas, leis e órgãos por trás do sistema obstétrico e pediátrico, suas histórias, determinantes e funcionamentos tanto organizacionais quanto econômicos. Envolve aprender o que é conflito de interesses, que deve estar sempre em mente quando lemos pesquisas sobre estes temas. É entender que por trás de toda recomendação médica, pode haver muito mais cultura do que ciência como embasamento. E sempre haverá um misto dos dois. 
+
+Portanto, este projeto acredita que uma maternidade científica que vise apenas seguir a risca o que manuais de sociedades médicas indicam, sem uma análise sociológica e política de seus fundamentos, é insuficiente para o objetivo de realmente empoderar mães e mulheres. Há muitas mães que se baseiam em informações repassadas, por exemplo pelas redes sociais, por médicos e profissionais da saúde, vistos como detentores da verdade devido ao diploma. Porém, estes profissionais também estão situados num contexto social e político, e também são atravessados por visões de mundo e ideologias. Isto também configura conflito de interesses. O conflito de interesses financeiro, que envolve se atentar aos conselhos do pediatra que é frequentador assíduo de congressos da indústria de ultraprocessados (Nestlé e afins), é apenas a primeira camada. Profissionais realmente a favor do aleitamento materno também precisam ser pautados numa visão crítica na perspectiva política. Profissionais de saúde que não reconhecem as violências obstétricas e puerperais como sistemáticas e estruturais, que não entendem sobre a existência de mecanismos de opressão das mulheres, que não enxergam recorte de raça e classe na realidade cotidiana de mulheres, que debocham e fazem desdém de assuntos relacionados ao machismo que nos violenta todos os dias, também não possuem qualificação suficiente para auxiliar uma mãe em dificuldades ligadas ao parto e amamentação. Pois muitas dificuldades ligadas a esses dois eventos não possuem nenhuma relação com a parte fisiológica, mas sim com o lado social. 
+
+Tendo em vista a trajetória histórica da obstetrícia, e o estado da arte ainda bastante embrionário em pesquisas da área da saúde que realmente se debrucem sobre o parto e amamentação como processos naturais e não como eventos médicos, 
 
 ---
 # INSTA
@@ -155,24 +143,6 @@ Indicações de Perfis e Podcasts
 Indicações de Vídeos
 Indicações de Filmes
 Indicações de Livros
-
----
-
-## Referências sobre bicos artificias
-
-O projeto Enciclopédia materna conta com uma série de referências sobre bicos artificiais.
-
-Em seu livro "Toda Mulher é o Mundo", Verônica Linder reproduz quadro da tese de doutorado da pesquisadora Gabriela Buccini sobre os principais riscos quanto ao uso de chupetas e mamadeiras, que vão muito além do desmame precoce. Prejuízos nas funções orais, na mastigação, na respiração, na fala, no sistema imunológico e até desenvolvimento de doenças respiratórias estão ligadas ao uso de bicos artificiais. (imagem da capa do livro)
-
-Diante disto, a NBCAL é uma das iniciativas que visa a promoção do aleitamento materno por meio da regulação da publicidade e comercialização de bicos artificiais e outros itens, com normas e políticas nacionais baseadas no Código Internacional de Mercadização de Susbstitutos do Leite Materno da Organização Mundial da Saúde (OMS) de 1981. (imagem da homepage do link no site)
-
-Uma das justificativas dos cuidadores para uso de chupeta é a preocupação com o ato de sucção que os bebês fazem no dedo. O artigo da Sociedade Brasileira de Pediatria reforça que o ato de sucção é completamente natural, observado desde o útero e tem papel importante como mecanismo para lidar com situações de estresse. (imagem da homepage do link no site)
-
-Por fim, artigos como "determinantes do uso de chupeta e mamadeira" de Gabriela Buccini apontam que o problema é social e não uma questão de culpa individual de cuidadores, apontando como alguns fatores para uso de bicos artificiais: a necessidade de mães trabalharem fora no primeiro ano de vida, a falta da amamentação na primeira hora de vida, e a falta de orientação médica adequada às famílias. (imagem da homepage do link no site)
-
-Leia essas e mais referências sobre bicos artificiais no nosso site, clicando no link na bio!
-
-#maternidade, #feminismo, #amamentação #partohumanizado, #educacaopositiva, #educacaorespeitosa
 
 ---
 
