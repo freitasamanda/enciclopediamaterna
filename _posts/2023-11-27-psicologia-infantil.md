@@ -40,9 +40,9 @@ tags:
 
 ## [A evolução do sono dos bebês  - Gabrielle Gimenez](https://gabriellegimenez.com/2018/09/10/a-evolucao-do-sono-dos-bebes/)
 
-##  (Co-Sleeping With Infants: Science, Public Policy, and Parents Civil Rights, with James McKenna, PhD)[https://www.youtube.com/watch?v=XCZzzqFkyiU]
+##  [Co-Sleeping With Infants: Science, Public Policy, and Parents Civil Rights, with James McKenna, PhD](https://www.youtube.com/watch?v=XCZzzqFkyiU)
 
-## (Bedsharing and Breastfeeding: The Academy of Breastfeeding Medicine Protocol #6, Revision 2019)[https://www.bfmed.org/assets/Protocol%20Number%206%202019%20Revision.pdf]
+## [Bedsharing and Breastfeeding: The Academy of Breastfeeding Medicine Protocol #6, Revision 2019](https://www.bfmed.org/assets/Protocol%20Number%206%202019%20Revision.pdf)
 
 Tradução livre por Amanda Freitas:
 
@@ -62,16 +62,6 @@ Tradução livre por Amanda Freitas:
 
 > 💬 *Os primeiros registros de preocupação com a cama compartilhada surgiram apenas no início do século XX em países industrializados, com dados de morte súbita infantil tendo aumento exponencial coincidemente no mesmo contexto histórico de sono solitário, treinamentos de sono e substitutos artificias do leite materno como normas. No entanto, apesar de mães que amamentam continuarem fazendo cama compartilhada com seus bebês, mesmo depois desse contexto, as organizações de saúde de países como Estados Unidos, Canadá e Alemanha recomendam que até bebês amamentados não devem compartilhar camas, sem apontar evidências para tal recomendação.*
 
-## (Cosleeping and Biological Imperatives: Why Human Babies Do Not and Should Not Sleep Alone, by James J. McKenna. in Neuroanthropology [online], 2008.)[https://neuroanthropology.net/2008/12/21/cosleeping-and-biological-imperatives-why-human-babies-do-not-and-should-not-sleep-alone/]
+## [Cosleeping and Biological Imperatives: Why Human Babies Do Not and Should Not Sleep Alone, by James J. McKenna. in Neuroanthropology [online], 2008.](https://neuroanthropology.net/2008/12/21/cosleeping-and-biological-imperatives-why-human-babies-do-not-and-should-not-sleep-alone/)
 
-## (Why Babies Should Never Sleep Alone: A Review of the Cosleeping Controversy in Relationship to SIDS, Breastfeeding and Bedsharing, by James J. McKenna and Thomas McDade. Pediatric Respiratory Reviews 6: 134-152. 2005.)[https://cosleeping.nd.edu/assets/31970/mckenna_why_babies_should_n.pdf]
-
-## (71% OF PARENTS BELIEVE CO-SLEEPING WITH CHILDREN SHOULD BE NORMALIZED RATHER THAN STIGMATIZED - One Poll - 71% dos pais acredicam que dormir junto com crianças e bebês deveria ser normalizado, e não estigmatizado)[https://www.onepoll.us/71-of-parents-believe-co-sleeping-with-children-should-be-normalized-rather-than-stigmatized/]
-
-Tradução livre por Amanda Freitas:
-
-> 💬 *88% dos pais preferem dormir junto de seus bebês porque dizem que isso os aproxima. Metade (51%) dos pais também veem vantagens na prática como benefício na facilitação da amamentação.*
-
-> 💬 *Dr. James McKenna, professor emérito do laborátorio Mãe-Bebê de comportamento de sono da Universidade de Notre Dame, aponta que a maneira mais segura de compartilhar cmaa com bebês é amamentando [...]:*
-
-> 💬 *A maioria das mães hoje em dia não acham que vão compartilhar a cama com seus bebês antes deles nascerem. Mas todos os bebês humanos são "buscadores por contato" já que sua sobrevivência depende desse contato, então eles natural e biologicamente buscam o máximo possível de proximidade com as mães, as ensinando que compartilhar a cama atende a suas necessidades biológicas. [...] Com isso, mães conseguem dormir mehor, e bebês ficam mais saudáveis e felizes, chorando menos.*  
+## [Why Babies Should Never Sleep Alone: A Review of the Cosleeping Controversy in Relationship to SIDS, Breastfeeding and Bedsharing, by James J. McKenna and Thomas McDade. Pediatric Respiratory Reviews 6: 134-152. 2005.](https://cosleeping.nd.edu/assets/31970/mckenna_why_babies_should_n.pdf)
