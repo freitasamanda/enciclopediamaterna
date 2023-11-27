@@ -97,8 +97,7 @@ https://www.canva.com/folder/FAFywqV7EaU
 # POSTS - TODA SEGUNDA-FEIRA
 
 ## posts prontos
-Post de apresentação
-Referências sobre bicos artificias - falta colocar as imagens das fontes
+
 
 ## posts no calendário
 Artigo - Maternidade Científica: uma faca de dois gumes
@@ -113,12 +112,10 @@ sobre consumismo na infância
 Alguns palpites e mitos populares comuns que ouço muito e respondê-los com as refs do site
 
 - Existe baixa produção? 
-- Quem realmente não pode amamentar?
-    Reais contraindicações para amamentação
+- Quem realmente não pode amamentar? Reais contraindicações para amamentação
 - Reais indicações de cesariana
 - Bico plano ou invertido não consegue amamentar?
-- O que é livre demanda
-    pq não existe livre demanda com bicos artificiais
+- O que é livre demanda - por que não existe livre demanda com bicos artificiais
 
 ## Post de apresentação
 O projeto Enciclopédia Materna é resultado de um esforço de compilar referências com embasamento científico e atualizadas sobre maternidade de uma perspectiva feminista.
@@ -180,12 +177,6 @@ Alguns trechos fundamentais de artigo que resume preceitos fundamentais da Teori
 Leia um resumo expandido, com trechos selecionados, ou artigo completo nas referências sobre Psicologia Infantil do projeto, acessando o link na bio!
 
 #maternidade, #feminismo, #amamentação #partohumanizado, #educacaopositiva, #educacaorespeitosa
-
----
-
-## A importância do contato com a natureza na infância
-Resumo que nem o dos bicos só que sobre as refs na página de natureza e consumo
-
 
 ---
 # RESUMO DO SITE
