@@ -39,3 +39,39 @@ tags:
 > 💬 *O padrão adulto de sono é alcançado em torno dos 5-6 anos. […] Dormir a noite toda não é biologicamente normal, especialmente em bebês amamentados. […] O hábito de forçar bebês a dormirem sozinhos é relativamente recente (levando em consideração o tempo de existência da humanidade), imposto pela cultura ocidental industrializada devido a diferentes circunstâncias sociais, culturais, morais e econômicas que finalmente se sobrepuseram no final do século XIX. […] Numa tentativa de solucionar o “problema” do sono infantil surgiram métodos de condicionamento comportamental com base no deixar chorar ou no choro controlado/assistido. Diante de tal situação de estresse, o cérebro do bebê responde liberando adrenalina e cortisol. Estes hormônios afetam áreas do cérebro que governam as emoções ao longo de nossas vidas e linguagem. As crianças que não são atendidas choram até que estas áreas colapsem. O corpo para se defender libera uma série de substâncias de caráter opiáceo (endorfinas, serotonina) que causam uma queda no estresse. A frequência de colapsos pode causar níveis anormais de serotonina e isso está relacionado a depressão, violência, baixa auto-estima, ansiedade, síndrome de estresse pós-traumático. Além disso, níveis altos e mantidos de cortisol podem ser tóxicos para o cérebro, chegando inclusive a causar perda neuronal. O sucesso destes métodos em alcançar o comportamento desejado não é gratuito, mas exige um preço alto no que se refere à saúde física, psicológica e emocional das crianças, forçando-as a um comportamento que vai contra seus instintos de sobrevivência primários, com base num choque neuro-emocional que funciona melhor quanto menor for a criança, justamente porque ela tem mais medo.*
 
 ## [A evolução do sono dos bebês  - Gabrielle Gimenez](https://gabriellegimenez.com/2018/09/10/a-evolucao-do-sono-dos-bebes/)
+
+##  (Co-Sleeping With Infants: Science, Public Policy, and Parents Civil Rights, with James McKenna, PhD)[https://www.youtube.com/watch?v=XCZzzqFkyiU]
+
+## (Bedsharing and Breastfeeding: The Academy of Breastfeeding Medicine Protocol #6, Revision 2019)[https://www.bfmed.org/assets/Protocol%20Number%206%202019%20Revision.pdf]
+
+Tradução livre por Amanda Freitas:
+
+> 💬 *Compartilhar a cama promove a iniciação, duração e exclusividade da amamentação. Organizações de saúde pública em alguns países recomendam contra a cama compartilhda, citando preocupações com o risco de morte súbita infantil. No entanto, a cama compartilhada só é um risco em algumas circunstâncias demonstradas por estudos epidemiológicos*
+
+> 💬 *Discussões sobre medidas seguras para cama compartilhada devem ser incluídas em consultas de pré-natal e pós-natal. Não há evidências existentes que apoiem a conclusão de que cama compartilhada com bebês amamentados cause risco de morte súbita infantil. [...] Essas discussões devem acontecer entre profissionais de saúde e todos os pais, já que pesquisas mostram que há uma grande probabilidade da cama compartilhada ser feita mesmo que não intencionalmente*
+
+> 💬 *Fatores de riscuo para morte súbita infantil, tanto em situações de cama compartihada ou dormindo sozinhos: sofa-sharing; dormir perto de um adulto que fez uso de álcool ou drogas; dormir perto de fumantes; dormir em outra posição além da posição de barriga para cima; não ser amamentando; dormir em uma cadeira com um adulto; dormir em superfície macia; nascimento prematuro ou abaixo do peso*
+
+> 💬 *Orientações para a cama compartilhada segura: Nunca dormir com bebês em sofás, cadeiras, ninhos e travesseiros; manter os bebês dormindo longe de pessoas que usaram álcool ou drogas; colocar bebês para dormir sempre de barriga para cima; manter bebês longe de qualquer adulto que seja fumante e de qualquer objeto que ficou no mesmo ambiente em que adultos fumaram; a cama deve ficar longe de paredes e móveis que possam prender ao corpo do bebê; a superfície deve sr firme, sem cobertores próximos do bebê, e com lençois bem presos; os bebês não devem dormir sem supervisão em camas de adultos; Adotar a posição de C (conchinha) com a cabeça do bebê próxima ao peito da mãe e o corpo da mãe de lado envolvendo o bebê; Não fazer cama compartilhada com outras crianças maiores e um bebê ao mesmo tempo, nem animais de estimação*
+
+> 💬 *História, contexto e antropologia do sono infantil:*
+
+> 💬 *O leite humano é digerido com bastante rapidez por bebês, e a alimentação frequente é difícil quando o bebê não está próximo da mãe que amamenta. A norma da evolução humana, demonstrada pela pesquisa antropológica, sempre foi a de compartilhamento de cama*
+
+> 💬 *Em países industrializados antes do século XX, a maioria dos bebês era amamentados e compartilhavam camas. O ideal de sono solitário e alimentação artificial com fórmula foi reforçado historicamente apenas no começo do século XX, ao lado da medicalização do parto e da cultura de separação de bebês de suas mães. Ao mesmo tempo, treinamentos de sono se tornaram comuns, o que foi facilitado pela proiferação da fórmula infantil*
+
+> 💬 *Os primeiros registros de preocupação com a cama compartilhada surgiram apenas no início do século XX em países industrializados, com dados de morte súbita infantil tendo aumento exponencial coincidemente no mesmo contexto histórico de sono solitário, treinamentos de sono e substitutos artificias do leite materno como normas. No entanto, apesar de mães que amamentam continuarem fazendo cama compartilhada com seus bebês, mesmo depois desse contexto, as organizações de saúde de países como Estados Unidos, Canadá e Alemanha recomendam que até bebês amamentados não devem compartilhar camas, sem apontar evidências para tal recomendação.*
+
+## (Cosleeping and Biological Imperatives: Why Human Babies Do Not and Should Not Sleep Alone, by James J. McKenna. in Neuroanthropology [online], 2008.)[https://neuroanthropology.net/2008/12/21/cosleeping-and-biological-imperatives-why-human-babies-do-not-and-should-not-sleep-alone/]
+
+## (Why Babies Should Never Sleep Alone: A Review of the Cosleeping Controversy in Relationship to SIDS, Breastfeeding and Bedsharing, by James J. McKenna and Thomas McDade. Pediatric Respiratory Reviews 6: 134-152. 2005.)[https://cosleeping.nd.edu/assets/31970/mckenna_why_babies_should_n.pdf]
+
+## (71% OF PARENTS BELIEVE CO-SLEEPING WITH CHILDREN SHOULD BE NORMALIZED RATHER THAN STIGMATIZED - One Poll - 71% dos pais acredicam que dormir junto com crianças e bebês deveria ser normalizado, e não estigmatizado)[https://www.onepoll.us/71-of-parents-believe-co-sleeping-with-children-should-be-normalized-rather-than-stigmatized/]
+
+Tradução livre por Amanda Freitas:
+
+> 💬 *88% dos pais preferem dormir junto de seus bebês porque dizem que isso os aproxima. Metade (51%) dos pais também veem vantagens na prática como benefício na facilitação da amamentação.*
+
+> 💬 *Dr. James McKenna, professor emérito do laborátorio Mãe-Bebê de comportamento de sono da Universidade de Notre Dame, aponta que a maneira mais segura de compartilhar cmaa com bebês é amamentando [...]:*
+
+> 💬 *A maioria das mães hoje em dia não acham que vão compartilhar a cama com seus bebês antes deles nascerem. Mas todos os bebês humanos são "buscadores por contato" já que sua sobrevivência depende desse contato, então eles natural e biologicamente buscam o máximo possível de proximidade com as mães, as ensinando que compartilhar a cama atende a suas necessidades biológicas. [...] Com isso, mães conseguem dormir mehor, e bebês ficam mais saudáveis e felizes, chorando menos.*  
