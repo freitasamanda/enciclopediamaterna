@@ -4,7 +4,7 @@
 ## bicos artificiais
 
 ## desfralde higiene
-Higiene natural procurar artigos
+Higiene natural procurar artigos no pubmed
 
 ## desmame
 
@@ -29,7 +29,36 @@ Reais indicações de cesariana - Ana Jannuzi
 
 ## amamentação
 
+## [UNICEF - Maximising breastmilk and re-lactation guidance (Guia para relactação e maximização de produção de leite materno)](https://www.unicef.org.uk/babyfriendly/maximising-breastmilk-and-re-lactation-guidance/)
 
+> *Produzimos este guia rápido de referência para profissionais de saúde no suporte a mães em maximizar sua produção de leite materno ou no processo de re-lactar se elas pararam de amamentar e desejam recomeçar.
+
+> Orientações para todas as mães [...]:
+
+> *Revisitar posicionamento e pega; monitorar quantidade de fraldas diárias do bebê; promover e encorajar constante contato pele a pele para aumentar a resposta hormonal fisiológica; considerar massagem ou ordenha manual; explicar a importância de amamentação noturna; apoiar a livre demanda e amamentação responsiva*
+
+> *Orientações adicionais para mães desejando relactar quando a amamentação foi interrompida:*
+
+> *A relactação é geralmente possível mesmo quando um retorno à amamentação completa não é sempre alcançável. Rever a razão da interrupção da amamentação (Relactação é mais fácil nos primeiros meses de vida e se a amamentação já estava estabelecida antes). Rever medicações tomadas atualmente (exemplo pílula anticoncepcional). Começar ações que aumentem a resposta hormonal fisiológica (contato pele a pele, sonecas no colo, massagem nas mamas); encorajar massagem nas mamas ou ordenhas; encorajar aumentar a frequências das mamadas.*
+
+## [UNICEF - Responsive Feeding Infosheet (Infográfico sobre Amamentação Responsiva/Livre demanda)](https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2017/12/Responsive-Feeding-Infosheet-Unicef-UK-Baby-Friendly-Initiative.pdf)
+
+> *Familiares e amigos, 'experts' sobre bebês e a mídia frequentemente reforçam a mensagem de que limitar amamentações e forçar uma rotina dirária vão tornar a vida mais fáceis. Por isso, mães acabam frequentemente lutando contra seus instintos de responderem a qualquer momento que um bebê deseja ser alimentado, ao invés disso tentando encaixar o bebê no que elas veem como um padrão desejado de rotina de alimentação. [...] Cada bebê tem necessidades diferentes [...], e isso pode levar o bebê à insatisfação e estresse, o que acaba minando a confiança da família na qualidade da amamentaão. Portanto, limitar a amamentação e não realizar livre demanda pode ameaçar o suprimento de leite de uma mãe e reduzir as chances de uma amamentação prolongada e bem sucedida.*
+
+https://www.bfmed.org/assets/ABM%20Clinical%20Protocol%2035.pdf
+
+https://publications.aap.org/pediatrics/article-abstract/60/1/116/47524/Relactation-An-Overview
+
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d8590008acd3a40c31f43536c1a692271ddd4bef
+
+
+## [CDC - Supporting Families with Relactation (Apoiando famílias com a relactação)](https://www.cdc.gov/breastfeeding/breastfeeding-special-circumstances/supporting-families-with-relactation.html)
+
+> *Relactação é o processo pelo qual a amamentação é reestabelecida depois de ter sido interrompida por algum tempo (semanas ou meses).* 
+
+> *Razões para a relactação: amamentação não estabelecida no hospital durante o pós-parto; separação devido a doença ou procedimento médico levando ao desmame precoce; intolerância da criança à fórmula [...]*
+
+> *A lactação é um processo de oferta e demanda que requer estimulação nas mamas e extração do leite. Aumento da frequência da estimulação, com a própria sucção do bebê ou massagens, é requisito para re-estabelecer a produção de leite. Uma consultora de amamentação pode oferecer auxílio específico em diferentes práticas para relactação avaliando a situação de cada família.*
 --- 
 
 # TEMAS DE INSPIRAÇÃO
