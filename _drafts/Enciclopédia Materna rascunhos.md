@@ -31,8 +31,6 @@ Reais indicações de cesariana - Ana Jannuzi
 
 
 
-
-
 https://www.bfmed.org/assets/ABM%20Clinical%20Protocol%2035.pdf
 
 https://publications.aap.org/pediatrics/article-abstract/60/1/116/47524/Relactation-An-Overview
@@ -62,29 +60,6 @@ https://editoratimo.com.br/2023/08/o-trabalho-do-cuidado-e-feminino-e-o-preco-e-
 https://agenciabrasil.ebc.com.br/economia/noticia/2020-06/ibge-mulher-tem-peso-importante-no-chamado-trabalho-invisivel
 
 
-
-
-## Maternidade científica - uma faca de dois gumes
-
-A linha tênue entre se apropriar de pesquisas científicas sobre maternidade e parto
-
-A reflexão das páginas 85 a 87 do livro mamãe desobediente
-
-Começo fazendo um resumo do apanhado histórico dessa parte do livro, historicidade da obstetrícia, a questão das parteiras e doulas e etc.
-
-Aí parto do último parágrafo da página 87
-
-Falo sobre conflito de interesses e exponho mais o que é entender o emaranhado de interesses políticos e econômicos por trás da prática médica
-
-Falo sobre pesquisa científica, como se fundamental, e como ler artigos científicos de modo crítico, sempre mantendo uma ótica feminista e anticapitalista, é o caminho que acredito ser o ideal para uma maternidade empoderada, norteadora do meu projeto
-
-Maternidade, parto e amamentação são assuntos multidisciplinares. Apenas informações do ponto de vista médico, biológico e fisiológico não dão conta da realidade pois, como Verônica Linder (CITAÇÃO) nos relembra, somos um misto de cultura e natureza. Amamentar e parir é natural, porém fatores culturais, sociais, políticos e econômicos atravessam essas realidades. Tendo sempre em vista que vivemos numa sociedade patriarcal e capitalista, precisamos nos atentar ao fato de que os corpos das mulheres são vistos de forma extremamente estigmatizada, passam por diversos mecanismos de controle político e econômicos, e também somos pertencentes da classe trabalhadora, com nossa força de trabalho explorada visando ao lucro. 
-
-Estudar sobre maternidade, parto e amamentação portanto não se resume a estudar sobre biologia, fisiologia, ler artigos científicos da área médica e de saúde. Envolve estudar também as políticas públicas, leis e órgãos por trás do sistema obstétrico e pediátrico, suas histórias, determinantes e funcionamentos tanto organizacionais quanto econômicos. Envolve aprender o que é conflito de interesses, que deve estar sempre em mente quando lemos pesquisas sobre estes temas. É entender que por trás de toda recomendação médica, pode haver muito mais cultura do que ciência como embasamento. E sempre haverá um misto dos dois. 
-
-Portanto, este projeto acredita que uma maternidade científica que vise apenas seguir a risca o que manuais de sociedades médicas indicam, sem uma análise sociológica e política de seus fundamentos, é insuficiente para o objetivo de realmente empoderar mães e mulheres. Há muitas mães que se baseiam em informações repassadas, por exemplo pelas redes sociais, por médicos e profissionais da saúde, vistos como detentores da verdade devido ao diploma. Porém, estes profissionais também estão situados num contexto social e político, e também são atravessados por visões de mundo e ideologias. Isto também configura conflito de interesses. O conflito de interesses financeiro, que envolve se atentar aos conselhos do pediatra que é frequentador assíduo de congressos da indústria de ultraprocessados (Nestlé e afins), é apenas a primeira camada. Profissionais realmente a favor do aleitamento materno também precisam ser pautados numa visão crítica na perspectiva política. Profissionais de saúde que não reconhecem as violências obstétricas e puerperais como sistemáticas e estruturais, que não entendem sobre a existência de mecanismos de opressão das mulheres, que não enxergam recorte de raça e classe na realidade cotidiana de mulheres, que debocham e fazem desdém de assuntos relacionados ao machismo que nos violenta todos os dias, também não possuem qualificação suficiente para auxiliar uma mãe em dificuldades ligadas ao parto e amamentação. Pois muitas dificuldades ligadas a esses dois eventos não possuem nenhuma relação com a parte fisiológica, mas sim com o lado social. 
-
-Tendo em vista a trajetória histórica da obstetrícia, e o estado da arte ainda bastante embrionário em pesquisas da área da saúde que realmente se debrucem sobre o parto e amamentação como processos naturais e não como eventos médicos, 
 
 ---
 # INSTA
