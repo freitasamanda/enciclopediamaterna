@@ -36,7 +36,9 @@ tags:
 ## [Canjica, cerveja preta, quinoa e amamentação: desmistificando dúvidas sobre a produção do leite materno - Não há comprovação de que alguma bebida ou comida causa aumento ou redução na produção de leite materno - Ministério da Saúde](https://www.gov.br/saude/pt-br/assuntos/saude-brasil/eu-quero-me-alimentar-melhor/noticias/2022/canjica-cerveja-preta-quinoa-e-amamentacao-desmistificando-duvidas-sobre-a-producao-do-leite-materno)
 
 ## ["Algo está errado com seu leite": estudo qualitativo de restrições na dieta maternas e crenças sobre cólica infantil - KIDD, Monica et al. “Something is wrong with your milk”: Qualitative study of maternal dietary restriction and beliefs about infant colic. Canadian Family Physician, v. 65, n. 3, p. 204-211, 2019.](https://www.cfp.ca/content/65/3/204.short)
+
 Trecho em tradução livre por Amanda Freitas:
+
 > 💬 *"Principais achados: a maioria das respondentes acreditavam que o comportamento de choro e agitação estava relacionado à dor abdominal ligada a sua alimentação e eliminaram itens de sua diete numa tentativa de modificar o comportamento infantil. Os alvos típicos de eliminação eram cafeína, vegetais crucíferos (como brócolis e repolho), alho e cebolo, comidas picantes, glúten e feijõe. Mulheres comumente viam as dietas de eliminatação como uma extensão neutra ou benigna de decisõess feitas durante a gravidez, mesmo quando estas decisões levaram a dietas extremamente limitadas nutricionalmente. Participantes afirmaram se sentir apreciadas socialmente por suas limitações na dieta, e frequentemente julgadas de forma dura ao não fazê-las. Muitas mulheres reportaram sentimentos de confusão frente a diversas fontes de informação conflitantes a respeito da amamentação, preferindo conselhos de amigos e familiares no lugar de conselhos de profissionais de saúde ou internet."*
 
 > 💬*"Conclusão: as lactantes nesse estudo acreditam que a dieta materna influencia no comportamento de choro e agitação infantil, apesar de fortes evidências científicas demonstrando o contrário. Um desejo compreensível de acalmar o bebê, além do julgamento favorável de amigos e famílias, podem levar lactantes a restringir suas dietas, frequentemente a limites extremos."*
@@ -45,6 +47,7 @@ Trecho em tradução livre por Amanda Freitas:
 
 ## [Aleitamento materno e as crenças alimentares](https://www.scielo.br/j/rlae/a/wkF9jjk97BQWK4HWGYPZ8Fx/)
 ICHISATO, Sueli Mutsumi Tsukuda; SHIMO, Antonieta Keiko Kakuda. Aleitamento materno e as crenças alimentares. Revista Latino-Americana de Enfermagem, v. 9, p. 70-76, 2001.
+
 >💬*A hipogalactia tem levado ao desmame precoce. As crenças e os tabus influenciam a alimentação materna durante a lactação. O presente estudo tem como objetivo identificar lactogogos regionais utilizados como suporte do aleitamento materno (AM), pautados nos tabus e crenças. Trata-se de um estudo de caso utilizando a análise de prosa(12). Alimentar-se ou não de certos alimentos, ter vivenciado a amamentação, as crenças transmitidas por familiares e médicos, crescimento e desenvolvimento da criança foram os fatores que estimularam o AM na nossa pesquisa*
 
 ## [Como nasce o leite materno? - A mulher que engoliu o mundo (Verônica Linder)](https://www.youtube.com/watch?v=HU8QhctAzLA)
@@ -62,3 +65,33 @@ CHAVES, Roberto Gomes et al. Uso de galactagogos na prática clínica para o man
 > 💬 *Não há comprovação da correlação direta entre níveis de prolactina sérica e maior período de aleitamento em mulheres em uso de galactagogos. O uso profilático de galactagogos em pacientes não selecionadas que supostamente poderao apresentar dificuldades com a amamentação, como mulheres submetidas a cesareana ou maes de prematuros, parece não apresentar benefícios. Previamente ao uso dos galactagogos, a avaliação e a correção de qualquer fator modificável como a freqüência e a técnica da amamentação devem ser avaliadas. A prescrição de galactagogos deve ser realizada somente após constatada falha nestas medidas.*
 
 > 💬 *Caso as maes sejam adequadamente orientadas sobre as técnicas da amamentação de forma a sustentar a lactação fisiológica, os galactagogos parecem ter pouco ou nenhum efeito.*
+
+## [UNICEF - Maximising breastmilk and re-lactation guidance (Guia para relactação e maximização de produção de leite materno)](https://www.unicef.org.uk/babyfriendly/maximising-breastmilk-and-re-lactation-guidance/)
+
+Trecho em tradução livre por Amanda Freitas:
+
+> *Produzimos este guia rápido de referência para profissionais de saúde no suporte a mães em maximizar sua produção de leite materno ou no processo de re-lactar se elas pararam de amamentar e desejam recomeçar.
+
+> Orientações para todas as mães [...]:
+
+> *Revisitar posicionamento e pega; monitorar quantidade de fraldas diárias do bebê; promover e encorajar constante contato pele a pele para aumentar a resposta hormonal fisiológica; considerar massagem ou ordenha manual; explicar a importância de amamentação noturna; apoiar a livre demanda e amamentação responsiva*
+
+> *Orientações adicionais para mães desejando relactar quando a amamentação foi interrompida:*
+
+> *A relactação é geralmente possível mesmo quando um retorno à amamentação completa não é sempre alcançável. Rever a razão da interrupção da amamentação (Relactação é mais fácil nos primeiros meses de vida e se a amamentação já estava estabelecida antes). Rever medicações tomadas atualmente (exemplo pílula anticoncepcional). Começar ações que aumentem a resposta hormonal fisiológica (contato pele a pele, sonecas no colo, massagem nas mamas); encorajar massagem nas mamas ou ordenhas; encorajar aumentar a frequências das mamadas.*
+
+## [UNICEF - Responsive Feeding Infosheet (Infográfico sobre Amamentação Responsiva/Livre demanda)](https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2017/12/Responsive-Feeding-Infosheet-Unicef-UK-Baby-Friendly-Initiative.pdf)
+
+Trecho em tradução livre por Amanda Freitas:
+
+> *Familiares e amigos, 'experts' sobre bebês e a mídia frequentemente reforçam a mensagem de que limitar amamentações e forçar uma rotina dirária vão tornar a vida mais fáceis. Por isso, mães acabam frequentemente lutando contra seus instintos de responderem a qualquer momento que um bebê deseja ser alimentado, ao invés disso tentando encaixar o bebê no que elas veem como um padrão desejado de rotina de alimentação. [...] Cada bebê tem necessidades diferentes [...], e isso pode levar o bebê à insatisfação e estresse, o que acaba minando a confiança da família na qualidade da amamentaão. Portanto, limitar a amamentação e não realizar livre demanda pode ameaçar o suprimento de leite de uma mãe e reduzir as chances de uma amamentação prolongada e bem sucedida.*
+
+## [CDC - Supporting Families with Relactation (Apoiando famílias com a relactação)](https://www.cdc.gov/breastfeeding/breastfeeding-special-circumstances/supporting-families-with-relactation.html)
+
+Trecho em tradução livre por Amanda Freitas:
+
+> *Relactação é o processo pelo qual a amamentação é reestabelecida depois de ter sido interrompida por algum tempo (semanas ou meses).* 
+
+> *Razões para a relactação: amamentação não estabelecida no hospital durante o pós-parto; separação devido a doença ou procedimento médico levando ao desmame precoce; intolerância da criança à fórmula [...]*
+
+> *A lactação é um processo de oferta e demanda que requer estimulação nas mamas e extração do leite. Aumento da frequência da estimulação, com a própria sucção do bebê ou massagens, é requisito para re-estabelecer a produção de leite. Uma consultora de amamentação pode oferecer auxílio específico em diferentes práticas para relactação avaliando a situação de cada família.*

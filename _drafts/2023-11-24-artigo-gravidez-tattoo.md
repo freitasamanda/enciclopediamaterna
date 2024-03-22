@@ -14,7 +14,7 @@ tags:
   - piercing
 ---
 
-Essa é uma pergunta recorrente para grávidas e mulheres que amamentam. Muitas sentem vontade de fazer uma tatuagem, e se deparam com recusas de estúdios e orientações claras de seus médicos para não fazerem. Para grávidas é praticamente 100% de chances de ouvir que fazer tatuagens e colocar piercings é totalmente proibido. Ninguém nunca explica direito pra gente o porque, e na vontade de não querer causar mal pros nossos bebês simplesmente seguimos. Às vezes, a gente ouve por aí algumas mulheres que fizeram tatuagens antes de descobrir que estavam grávidas, no primeiro trimestre de gravidez, que teoricamente deveria ser o mais crítico. Só que pesquisar sobre esse assunto é bastante nebuloso. É fácil encontrar diretrizes nos sites dos órgãos de saúde sobre outros tópicos, como tintura pra cabelo, com explicações mais robustas. Mas o por que uma grávida ou lactante não deveria se tatuar ou colocar um piercing nunca fica explícito. 
+Essa é uma pergunta recorrente para grávidas e mulheres que amamentam. Muitas sentem vontade de fazer uma tatuagem, e se deparam com recusas de estúdios e orientações claras de seus médicos para não fazerem. Para grávidas é praticamente 100% de chances de ouvir que fazer tatuagens e colocar piercings é totalmente proibido. Ninguém nunca explica direito pra gente o porque, e na vontade de não querer causar mal pros nossos bebês simplesmente seguimos. Às vezes, a gente ouve por aí algumas mulheres que fizeram tatuagens antes de descobrir que estavam grávidas, no primeiro trimestre de gravidez, que teoricamente deveria ser o mais crítico. Só que pesquisar artigos científicos sobre esse assunto é bastante nebuloso. É fácil encontrar diretrizes nos sites dos órgãos de saúde sobre outros tópicos, como tintura pra cabelo, com explicações mais robustas. Mas a razão pela qual uma grávida ou lactante não deveria se tatuar ou colocar um piercing nunca fica explícito. 
 
 Antes de explorar os artigos científicos sobre esse tópico, uma breve explicação sobre como funciona a busca por evidências sobre um assunto:
 
@@ -45,7 +45,8 @@ Porém, percebe como é muito diferente dizer pra uma grávida que ninguém sabe
 ## Referências
 
 ARMSTRONG, MyrnaL; CALIENDO, Carol; ROBERTS, AldenE. Pregnancy, lactation and nipple piercings. Nursing for Women's Health, v. 10, n. 3, p. 212-217, 2006.[https://www.nwhjournal.org/article/S1091-5923(15)31482-5/fulltext]
-Nesse artigo fala sobre a influência de piercing na gravidez e na amamentação, aí aborda o processo de cicatrização de piercing, diferenças de piercings em diferentes lugares do corpo, e a questão de se piercing no mamilo atrapalha amamentação, e de novo mostram que nao tem comprovação científica de nada disso 
+
+GONZÁLEZ, Carlos. Um presente para a vida toda: guia de aleitamento materno. Editora Timo, 2021.
 
 KLUGER, Nicolas. Body art and pregnancy. European Journal of Obstetrics & Gynecology and Reproductive Biology, v. 153, n. 1, p. 3-7, 2010. [https://doi.org/10.1016/j.ejogrb.2010.05.017]
 
