@@ -60,7 +60,9 @@ https://editoratimo.com.br/2023/08/o-trabalho-do-cuidado-e-feminino-e-o-preco-e-
 https://agenciabrasil.ebc.com.br/economia/noticia/2020-06/ibge-mulher-tem-peso-importante-no-chamado-trabalho-invisivel
 
 
+https://www.scielo.br/j/hcsm/a/6ND55ZmyLhjX3w55RK6mvSt/#:~:text=O%20terceiro%20tipo%20de%20aleitamento,25
 
+https://www.sescsp.org.br/historia-amamentacao/
 ---
 # INSTA
 ## informações do perfil
