@@ -19,6 +19,35 @@ O livro Toda Mulher é o Mundo – Guia de Aleitamento Materno, da jornalista e 
 É um guia rápido de aleitamento, que fala sobre a amamentação de forma objetiva, informativa, coerente e consciente.
 
 ----
+## [Um Presente para a Vida Toda - Dr. Carlos Alberto González](https://www.loja.editoratimo.com.br/livros/um-presente-para-a-vida-toda)
+
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/presente-vida-toda.png)
+
+Um bebê que tem a oportunidade de mamar o leite materno recebe um presente para a vida toda!
+
+O livro Um presente para a vida toda é um texto reconhecido no mundo materno como uma das "bíblias da amamentação". Seu conteúdo é informativo, mas sua linguagem é clara e acessível. O dr. González é um autor experiente, um pesquisador obstinado e um pediatra que se coloca no lugar do bebê, nos oferecendo um ponto de vista preciso, mas amoroso e pouco intervencionista.
+
+O livro não tenta convencer as mães a dar o peito, mas sim ajudar aquelas que desejam amamentar, para que consigam. 
+
+QUEM É CARLOS GONZÁLEZ?
+Doutor em pediatria e autor de vários livros sobre educação, alimentação e saúde infantil, licenciado pela Universidade Autônoma de Barcelona e especialista em amamentação pela Universidade de Londres, CARLOS GONZÁLEZ é considerado um dos maiores ícones da atualidade em defesa da amamentação e da criação com apego. "Sou um pediatra a favor das crianças" assim ele se define.
+----
+
+## [Manual Prático de Aleitamento Materno - Dr. Carlos Alberto González](https://www.loja.editoratimo.com.br/livros/manual-pratico-de-aleitamento-materno)
+
+![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/manual-pratico.png)
+
+Ganho de peso irregular, o que é uma boa "pega", galactogogos, bicos artificiais, amamentação de gêmeos, amamentar após a cesárea, mamadas noturnas, choro do bebê, muitos são os aspectos que envolvem a amamentação, poucos são os profissionais bem preparados para dar respostas amorosas e embasadas às dúvidas das mulheres.
+
+A maior parte das mães dá o peito para seus filhos, mas a maioria deixa de amamentar antes do que desejava, e poucas chegam ao período de dois anos que a Organização Mundial de Saúde, o UNICEF ou a Sociedade Brasileira de Pediatria recomendam.
+
+Este livro pretende oferecer uma informação concisa, confiável e prática sobre o aleitamento materno, que permita:
+
+1) aos profissionais de saúde ajudar com eficiência às mulheres que amamentam, e
+
+2) às mães amamentar com prazer e segurança.
+
+----
 
 ## [9 Meses - Um guia prático e baseado em evidências do positivo ao parto - Ana Jannuzzi](https://www.amazon.com.br/Meses-prático-evidências-positivo-Jannuzzi/dp/6500738691)
 
