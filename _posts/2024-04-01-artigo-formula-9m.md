@@ -30,7 +30,7 @@ Além disso, não há motivo para ofertar fórmula em mamadeiras em nenhum momen
 
 >*A maioria das fórmulas são derivadas do leite de vaca [...]. São continuamente alteradas para serem o mais similar possível ao leite materno do ponto de vista nutricional, apesar de não incluirem todos os nutrientes do leite materno e nem possuírem propriedades imunológicas. Porque fórmulas são vendidas com marketing agressivo e estão associadas a obesidade e mortalidade infantil, um Código Internacional para o Marketing de Substitutos do Leite Materno foi aprovado quase unanimamente em 1981* (p.32)
 
->*Alguns leites são fortificados com nutirentes adicionais e vendidos com marketing agressivo com o nome de fórmulas de segmento. Eles são amplamente consumidos. [...] Alguns destes produtos possuem uma concentração inadequadamente alta de proteínas e carboidratos assim como açúcares adicionaidos. O Codex Alimentarius Commission definiu fórmulas de segmento como 'comidas destinadas como parte da dieta líquida de crianças em processo de desmame a partir dos 6 meses de idade'. A OMS e diversas sociedades de pediatria consideram esses produtos desnecessários e não recomendados. (p.32)*
+>*Alguns leites são fortificados com nutirentes adicionais e vendidos com marketing agressivo com o nome de fórmulas de segmento. Eles são amplamente consumidos. [...] Alguns destes produtos possuem uma concentração inadequadamente alta de proteínas e carboidratos assim como açúcares adicionados. O Codex Alimentarius Commission definiu fórmulas de segmento como 'comidas destinadas como parte da dieta líquida de crianças em processo de desmame a partir dos 6 meses de idade'. A OMS e diversas sociedades de pediatria consideram esses produtos desnecessários e não recomendados. (p.32)*
 
 
 
@@ -39,7 +39,7 @@ Além disso, não há motivo para ofertar fórmula em mamadeiras em nenhum momen
 
 >*Crianças de 12-23 meses consomem mais comida e portanto conseguem receber os nutrientes necessários da alimentação. [...] O leite de origem animal é, portanto, uma alternativa mais apropriada do que fórmulas de seguimento para esta faixa etária*
 
-## Capítulo 19 - Alimentação para crianças não amamentadas [Caderno de Atenção Básica - Aleitamento materno e alimentação complementar - Ministério da SaúdePermalink](https://bvsms.saude.gov.br/bvs/publicacoes/saude_crianca_aleitamento_materno_cab23.pdf)
+## Capítulo 19 - Alimentação para crianças não amamentadas [Caderno de Atenção Básica - Aleitamento materno e alimentação complementar - Ministério da Saúde](https://bvsms.saude.gov.br/bvs/publicacoes/saude_crianca_aleitamento_materno_cab23.pdf)
 
 > *As fórmulas infantis para lactentes correspondem a leites industrializados indicados para lactentes que não estão em aleitamento materno. A grande maioria das fórmulas existentes no comércio é elaborada a base de leite de vaca e seguem as recomendações do “Codex Alimentárius”. No entanto, apesar de sua adaptação com relação ao carboidrato, proteínas e vitamina, os fatores anti-infecciosos e bioativos encontrados no leite materno não são encontrados nas fórmulas infantis*
 
