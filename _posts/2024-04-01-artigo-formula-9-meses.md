@@ -1,5 +1,5 @@
 ---
-title: "Fórmulas infantis são desnecessárias após os 9 meses"
+title: "Fórmulas infantis são desnecessárias após os 12 meses"
 layout: single
 excerpt: "Fórmulas infantis são os únicos alimentos seguros na ausência do leite materno até os 6 meses de idade. Após a Introdução Alimentar, no entanto, além de desnecessárias, são prejudicias."
 toc: true
