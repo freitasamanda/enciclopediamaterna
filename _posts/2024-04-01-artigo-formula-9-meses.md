@@ -53,15 +53,16 @@ Além disso, não há motivo para ofertar fórmula em mamadeiras em nenhum momen
 
 > Como saber se um alimento é ultraprocessado? Para identificar os alimentos ultraprocessados, deve-se olhar a lista de ingredientes presente no rótulo. Nela, o primeiro ingrediente da lista é o que está em maior quantidade no produto e o último ingrediente é o que está em menor quantidade. Com ausência ou presença em pequenas quantidades de alimentos in natura e minimamente processados. Se o produto tiver muitos ingredientes com nomes estranhos, pouco conhecidos ou que nunca usamos em casa, é muito provável que o produto seja ultraprocessado.
 
-Rótulo de uma das opções de fórmula infantil encontradas no mercado: 
+O rótulo de uma das opções de fórmula infantil encontradas no mercado deixa explícito que as fórmulas são ultraprocessados: 
 
 > Soro de leite desmineralizado*, lactose, oleína de palma, leite desnatado*, óleo de palmiste, óleo de canola com baixo teor erúcico, galactooligossacarídeos, óleo de milho, sais minerais (citrato de cálcio, citrato de potássio, cloreto de cálcio, fosfato de sódio, cloreto de magnésio, cloreto de sódio, sulfato ferroso, sulfato de zinco, sulfato de cobre, sulfato de manganês, iodeto de potássio e selenato de sódio), frutooligossacarídeos, maltodextrina, óleo de peixe, vitaminas (L-ascorbato de sódio, acetato de DL-alfa-tocoferila, nicotinamida, D-pantotenato de cálcio, tiamina mononitrato, acetato de retinila, cloridrato de piridoxina, riboflavina, ácido N-pteroil-L-glutâmico, filoquinona, D-biotina, colecalciferol, cianocobalamina), L-fenilalanina, óleo de Mortierella alpina ,taurina, mio-inositol, L-histidina, nucleotídeos (citidina 5-monofosfato, sal dissódico de uridina 5-monofosfato, adenosina 5-monofosfato, sal dissódico de guanosina 5 monofosfato), bitartarato de colina, L-carnitina, emulsificante lecitina de soja e acidulantes hidróxido de potássio e ácido cítrico.*Fonte proteica.
 
 > Na impossibilidade de relactação, a recomendação é a de que as crianças recebam fórmula infantil. O uso de leite de vaca antes de 9 meses não é recomendado, mas é considerado em função do elevado consumo na população brasileira e deve ser avaliado por um profissional de saúde. Atenção! Existem produtos chamados “compostos lácteos” que não devem ser confundidos com fórmulas infantis nem com leite de vaca integral. Eles são produzidos com uma mistura de leite (no mínimo 51%) e outros ingredientes lácteos ou não lácteos e costumam conter açúcar e aditivos alimentares. Os compostos lácteos têm embalagens e rótulos muito parecidos com os das fórmulas infantis ou leite de vaca, por isso leia o rótulo com atenção. 
 
-Alimentação de crianças não amamentadas:
+Alimentação de crianças não amamentadas, perceba que após os 9 meses de idade, a fórmula some da dieta e dá lugar ao leite de vaca:
 
 ![](https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/formula-ate-9m.png)
+
 
 ## [Dr. Carlos Alberto Gonzáles - Um Presente para a Vida Toda](https://www.loja.editoratimo.com.br/livros/um-presente-para-a-vida-toda)
 
