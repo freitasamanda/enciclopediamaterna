@@ -136,9 +136,56 @@ Tabaco (p. 287 a 289):
 
 > 💬 Se você fuma, assim como se bebe álcoo, é melhor continuar dando o peito. O tabaco faz mal, mas não o suficiente para transformar o leite materno em algo pior do que o leite artificial. Os filhos de pais fumantes sofrem mais problemas respiratórios, bronquites, pneumonias e otites. Foi demonstrado que a amamentação protege em parte contra esses problemas. Ou seja, a fumação do tabaco e ainda por cima a mamadeira é a pior combinação para a saúde do bebê. Se você não for capaz de parar de fumar, pelo menos continue amamentando. [...] A nicotica passa para o leite. Mesmo no leite de algumas mães não fumantes há nicotina, porque são fumantes passivas. Mas lembre-se que a nicotina é o menor dos problemas do tabaco. [...] A fumaça do tabaco é muito mais perigosa do que a nicotina. [...] Portanto, se amãe fuma, o perigo para o bebê nãoé o leite contaminado, mas sim a fumaça. Se a mãe não fuma nunca dentro de casa, seu filho não estará exposto à fumaça, e a nicotina no leite não lhe fará nenhum mal.
 
-
 ## [Um presente para toda a vida - Dr. Carlos Alberto Gonzáles - Capítulo 17 - Dúvidas diversas](https://www.loja.editoratimo.com.br/livros/um-presente-para-a-vida-toda)
 
 Pintar o cabelo (p.349):
 
 > 💬 Não sei de onde saiu essa lenda urbana, mas muitas vezes ouvi dizer que você não pode pintar o cabelo enquanto está amamentando porque a tinta é tóxica e passa para o leite. Vamos ver. Você não engole a tinta, mas a coloca na cabeça. Que parte dessa tinta é absorvida pela pele e passa para o sangue? Eu nem sei se isso me importa. Pode ser que uma centésima ou uma milésima parte da tinta seja absorvida, não sei, mas é verossímil. E pode ser que uma centésima parte do que há no sangue passa para o leite, também não sei. De qualquer maneira, uma coisa está clara: se a tinta fosse tóxica, a primeira pessoa a ser intoxicada seria a cabelereira, que passa o dia sujando-se de tinta e respirando os vapores. Mesmo que ela use luvas, veríamos milhares de cabelereiras intoxicadas pela tinta. E a segunda intoxicada seria a mãe, que é quem está com toda a tina na cabeça. Pode ficar tranquila: se já houve tintas tóxicas, elas já foram proibidas há décadas. E se a tinta não faz mal a você, vai fazer muito menos mal ao seu filho.
+
+Cremes depilatórios (p.350):
+
+> 💬 Os cremes depilatórios são muito cáusticos. [...] Você precisa se limpar bem antes de pegar o bebê no colo. [...] Mas eles não são absorvidos através da pele, não passam para o sangue, e muito menos para o leite. Você pode se depilar com os cremes durante a amamentação. Também pode se depilar com cera, com laser ou qualquer outro método.
+
+Tatuagens (p.351):
+
+> 💬 Se forem feitas em um lugar de confiança, com controle higiênico e tintas aptas para o uso humano, as tatuagens são plenamente compatíveis com a amamentação. É claro que as tatuagens com agulhas contaminadas e tintas tóxicas não deveriam ser feitas nem durante a amamentação nem em nenhum outro momento.
+
+Piercings (p.351):
+
+> 💬 Parece ser prudente retirar os piercings dos mamilos durante a gravidez [...].Em geral a amamentação corre sem problemas, mas foram descritos alguns casos de diminuição da produção de leite por obstrução dos ductos lactíferos.
+
+Raiva e estresse (p.352):
+
+> 💬 É MUITO antigo o mito de que as qualidades morais da mãe passam para o filho através do leite. [...] Na versão moderna do mito, é frequente escutar que o estado de ânimo da mãe influencia o bebê e vice-versa [...]. Mas não através do leit.
+
+Estresse não seca leite (p.30):
+
+> 💬 Não estou dizendo que mães assustadas, nervosas ou estressadas não podem amamentar. É claro que podem! A amamentação não é uma delicada flor, mas sim uma das funções mais poderosas do nosso organismo. Uma função vital (não para a mãe, mas sim para seu filho). Todos os nossos órgãos podem falhar (de alguma coisa temos que morrer), mas ficar sem leite é tão raro como ter uma parada cardíaca ou insuficiência renal (p.30)
+
+> 💬 Os que falam do estresse da vida moderna se esquecem de que [...] as mulheres amamentaram por milênios, em situações muito piores. Amamentaram quando viver 35 anos era considerado 'ficar velho', quando a seca anunciava a fome, quando a guerra devastava seus lares, quando eram escravas, quando as epidemias dizimavam cidades e vilarejos. O efeito do estresse sobre a amamentação é temporal: o leite não sai imediatamente, o bebê fica nervoso e chora um pouco, continua mamando e o leite acaba saindo, por mais estressada que a mãe estiver. O que acontece hoje em dia, e que nunca havia acontecido antes, é que, quando o bebê chora e fica nervoso, a mãe dá uma mamadeira. Não são o estresse e as preocupações os fatores que fazem com que o leite seque, mas sim as mamadeiras (p.30)
+
+## [Ministério da Saúde - Amamentação e uso de medicamentos e outras substâncias](https://bvsms.saude.gov.br/bvs/publicacoes/amamentacao_uso_medicamentos_outras_substancias_2edicao.pdf)
+
+p. 89 - cosméticos:
+
+> 💬 Amônia: Uso criterioso durante a amamentação. Utilizado em tinturas para cabelo. Não há estudos sobre segurança para uso durante o período da lactação.
+
+> 💬 Formol: Uso contraindicado durante a amamentação. Uso como alisante de cabelo não é permitido pela Agência Nacional de Vigilância Sanitária devido ao risco de intoxicação.
+
+> 💬 Tatuagens: Uso criterioso sobre a aréola e o mamilo. Risco de dermatite local e obstrução ductal.
+
+> 💬 Tinturas para cabelo: Uso compatível com a amamentação, desde que não contenham o metal chumbo.
+
+> 💬 Piercings: Uso criterioso para uso nos mamilos. Risco de dano aos ductos mamários com consequente obstrução
+
+## [Amamentação. Informativo da Sociedade Brasileira de Pediatria](https://www.sbp.com.br/fileadmin/user_upload/flipping-book/Amamentacao21_jul15/files/assets/basic-html/page3.html)
+
+> 💬 Relaxamento capilar (alisamento químico) à base de guanidina pode ser realizado pela mãe que amamenta?Não há na literatura científica estudos sobre o uso da guanidina pela mãe que amamenta. Entretanto, o hidróxido de guanidina é uma substância orgânica e sua absorção pela pele é muitopequena. Sendo assim, não deve ser considerada contraindicada para uso durante a amamentação.As práticas de alisamento podem ser realizadas pelas nutrizes desde que não contenham formol. O formol é substância tóxica quando utilizada em altas concentrações e, para funcionar comoalisante de cabelo, os seus níveis ultrapassam o limite de segurança. Seu uso como alisante não é permitido pela Agência Nacional de Vigilância Sanitária (Anvisa)
+
+> 💬 A mãe que amamenta pode aplicar botox?O Manual de Drogas e Aleitamento Materno do Ministério da Saúde classifica a toxina botulínica tipo A como de uso criterioso durante a amamentação. Quando administrada corretamente,via intramuscular, o fármaco não atinge a circulação sistêmica e, consequentemente, o compartimento lácteo. Portanto, não está contraindicado seu uso na amamentação
+
+## [Toda mulher é o mundo  Guia de aleitamento materno - Verônica Linder](https://www.loja.editoratimo.com.br/toda-mulher-e-o-mundo)
+
+> 💬 Pode pintar o cabelo amamentando? Pode! Mas observe: chumbo não pode. E amônia tem uso criterioso: não pode amamentar durante o processo de ação da química, e só amamente depois de todo produto retirado, em ambiente ventilado. (p.136)
+
+> 💬 Amamentar e tatuar: Não existem estudos que comprovem que a tinta da tatuagem chegue até o leite materno. Os cuidados são OS MESMOS para uma pessoa que não esteja amamentando: O tatuador deve usar luvas durante o procedimento; o estúdio de tatuagem deve ter equipamentos limpos e esterilizados; as agulhas utilizadas precisam ser novas, descartáveis e feitas para uso único; os corantes usados na tatuagem devem ser embalados e estéreis também; busque por locais que possuam licença para o seu atendimento. Tatuagens na região das mamas não são recomendadas por risco de reação alérgica, coceira e dor. Além disso, é o local que o bebê tem mais contato, podendo prejudicar a cicatrização. (p.137) 

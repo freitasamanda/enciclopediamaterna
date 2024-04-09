@@ -29,7 +29,7 @@ Reais indicações de cesariana - Ana Jannuzi
 
 ## amamentação
 
-
+ESTRESSE NÃO SECA LEITE!!!!
 
 https://www.bfmed.org/assets/ABM%20Clinical%20Protocol%2035.pdf
 

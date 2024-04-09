@@ -45,7 +45,7 @@ Além disso, não há motivo para ofertar fórmula em mamadeiras em nenhum momen
 
 > *Apesar de proporcionar o conteúdo nutricional necessário, as fórmulas não são estéreis e estão sujeita às mesmas preocupações de segurança, como cuidados com a higiene na preparação e abastecimento de água potável. Esses cuidados devem ser ainda maiores nos primeiros seis meses de vida Leites muito concentrados ou muito diluídos podem ser prejudiciais para a saúde da criança, pois pode resultar, respectivamente, em uma sobrecarga renal de sais e proteína ou desnutrição. (WORLD HEALTH ORGANIZATION, 2010)*
 
-## [Guia alimentar para crianças brasileiras menores de 2 anos - Ministério da SaúdePermalink](https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_crianca_brasileira_versao_resumida.pdf)
+## [Guia alimentar para crianças brasileiras menores de 2 anos - Ministério da Saúde](https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_crianca_brasileira_versao_resumida.pdf)
 
 > Algumas práticas que podem ser prejudiciais à amamentação: Dar outros leites ou fórmulas infantis para “complementar” o leite materno desnecessariamente.
 
@@ -72,7 +72,7 @@ Alimentação de crianças não amamentadas, perceba que após os 9 meses de ida
 
 > Uma criança criada com mamadeira não deveria tomar cereais nem nada mais na mamadeira. A mamadeira é só para o leite, e só durante o primeiro ano. A partir dos seis mese, convém ir dando uma parte do leite em um copo, para que ao fazer um ano o bebê já beba só no copo e pare de usar mamadeiras" (p.244)
 
-## [O que o Leite Materno tem que a fórmula não tem - Sociedade Brasileira de PediatriaPermalink](https://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/o-que-o-leite-materno-tem-que-a-formula-nao-tem/)
+## [O que o Leite Materno tem que a fórmula não tem - Sociedade Brasileira de Pediatria](https://www.sbp.com.br/especiais/pediatria-para-familias/nutricao/o-que-o-leite-materno-tem-que-a-formula-nao-tem/)
 
 > *Existe a chance do uso de uma fórmula trazer algum risco a um bebê? É muito importante que vocês (mamães, papais e cuidadores) saibam que sim. Existem muitos riscos para um bebê quando o mesmo não recebe o leite materno e passa a tomar fórmula que, apesar de mais segura que leites comuns, pode ser causa de infecções intestinais e alergias variadas (de intestino, pele, pulmão, nariz, etc.). Outro exemplo de risco importante causado pelo uso da fórmula é que geralmente ela é oferecida em mamadeira e caso o bebê ainda esteja mamando o peito, isso poderá levar ao desmame. Sim, essa história de mamar mamadeira com fórmula e ao mesmo tempo mamar o peito pode levar ao desmame! Não é um mito popular, na verdade muitos estudos mostram que isso costuma ocorrer sim e com muita frequência.* 
 
