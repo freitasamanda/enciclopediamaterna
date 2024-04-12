@@ -9,6 +9,7 @@ categories:
   - Artigos
 tags:
   - amamentação
+  - leis
 ---
 
 A amamentação não é apenas assunto privado, mas assunto de saúde pública, tendo em vista que o aumento no aleitamento materno [diminui taxas de mortalidade infantil, internações, custos com antibióticos, contribuindo, assim, com a diminuição na sobrecarga do sistema de saúde](https://enani.nutricao.ufrj.br/wp-content/uploads/2020/12/Relatorio-parcial-aleitamento-materno_ENANI-2019.pdf). O leite materno é considerado padrão ouro da alimentação, com nenhum outro alimento chegando aos pés de sua riqueza nutricional e em anticorpos, contribuindo não apenas para o desenvolvimento físico pleno como para o desenvolvimento emocional e psicológico na primeira infância.

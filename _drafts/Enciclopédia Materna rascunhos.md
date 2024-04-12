@@ -33,8 +33,6 @@ ESTRESSE NÃO SECA LEITE!!!!
 
 https://www.bfmed.org/assets/ABM%20Clinical%20Protocol%2035.pdf
 
-https://publications.aap.org/pediatrics/article-abstract/60/1/116/47524/Relactation-An-Overview
-
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d8590008acd3a40c31f43536c1a692271ddd4bef
 
 
@@ -47,7 +45,7 @@ Inspiração pra mim - valor nutricional e alimentação infantil, obesidade e e
 https://www.instagram.com/p/Cy6CIxOAUG1/?igshid=NjFhOGMzYTE3ZQ== 
 
 ## Teoria da reprodução social e crise do cuidado
-com pesquisa do IBGE sobre trabalho doméstico, reflexões do livro Mamãe Desobediente, Wendy Goldman mulheres e revolução, entre outros
+com pesquisa do IBGE sobre trabalho doméstico, reflexões do livro Mamãe Desobediente, Wendy Goldman mulheres e revolução, entre outros, Federici
 
 https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2023/novembro/ministerio-das-mulheres-financia-a-implantacao-de-lavanderias-publicas
 

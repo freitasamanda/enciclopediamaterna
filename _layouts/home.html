@@ -16,6 +16,24 @@ layout: archive
 
 <img src="https://raw.githubusercontent.com/freitasamanda/enciclopediamaterna/main/images/header.png" alt="Header">
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Posts Recentes"}}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
+
+<h1> Sobre o projeto </h1>
 <p>O projeto Enciclopédia Materna é resultado de um esforço para compilar referências com embasamento científico e atualizadas sobre maternidade de uma perspectiva feminista.</p>
 <p>Aqui você encontra informações sobre assuntos como parto humanizado, gestação, nutrição infantil, amamentação e cultura do desmame, bicos artificiais, entre outros. Este projeto é atualizado constantemente.</p>
 <p>As informações vêm, em sua maioria, de órgãos nacionais e internacionais, artigos científicos e trabalho de ativistas de amamentação e maternidade.</p>
@@ -48,19 +66,3 @@ layout: archive
 <p>Você pode divulgar o projeto em suas redes sociais, para que as informações aqui reunidas alcancem mais pessoas.</p>
 <p>Caso tenha uma sugestão de tema ou de referência, ou queira participar do projeto de outras formas, fique à vontade para entrar em contato comigo nos <i>links</i> ao lado.</p>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Posts Recentes"}}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
