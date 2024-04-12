@@ -1,6 +1,6 @@
 ---
 title: "Sobre o projeto"
-layout: default
+layout: single
 permalink: /about/
 author_profile: true
 ---
