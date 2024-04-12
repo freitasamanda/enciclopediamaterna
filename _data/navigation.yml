@@ -8,7 +8,5 @@ main:
     url: /tags/
   - title: "Categorias"
     url: /categories/
-  - title: "Coleções"
-    url: /collection-archive/
-  - title: "Posts por ano"
-    url: /year-archive/
+  - title: "Sobre"
+    url: /about/

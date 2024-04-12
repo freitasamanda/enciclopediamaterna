@@ -144,7 +144,7 @@ Leia um resumo expandido, com trechos selecionados, ou artigo completo nas refer
 ---
 # RESUMO DO SITE
 
-## Enciclopédia Materna: compilado de referencias para uma maternidade empoderada
+## Enciclopédia Materna: compilado de referências para uma maternidade empoderada
 enciclopediamaterna.com.br
 Autora: Amanda Freitas
 Bio: Mestranda em Ciência Polítaaaica (USP), Cientista Social (UNIFESP), criadora do projeto Enciclopédia Materna
@@ -156,7 +156,7 @@ instagram "@mandyfreitas19"
 ## ORGANIZAÇÃO DO SITE
 Navegação:
 1. Comece por aqui
-2. referencias - uma página que vem só dos posts da categoria "referencias"
+2. referências - uma página que vem só dos posts da categoria "referências"
 3. Artigos - uma página que vem só dos posts da categoria "artigos"
 4. Assuntos (tags)
 5. Categorias
@@ -169,12 +169,12 @@ Comece por aqui: sobre o projeto, como usar o site, como contribuir com o projet
 
 
 - Categorias - usar para organizar o tipo de post
-Existem os posts de referencias e os de artigos, por enquanto, depois vou criar de outras coisas tipo eventos
+Existem os posts de referências e os de artigos, por enquanto, depois vou criar de outras coisas tipo eventos
 
 - Tags - usar para organizar os assuntos - vou mudar o nome para Assuntos
-Alguns posts vão ter referencias nos nomes. Outros vão entrar nas categorias mas vão ser discussões variadas sobre esses assuntos, com textos de minha autoria ao longo do tempo ou de outras colaboradoras
+Alguns posts vão ter referências nos nomes. Outros vão entrar nas categorias mas vão ser discussões variadas sobre esses assuntos, com textos de minha autoria ao longo do tempo ou de outras colaboradoras
 
-- Bicos artificiais - excerpt "Todas referencias sobre..."
+- Bicos artificiais - excerpt "Todas referências sobre..."
 - Nutrição e desenvolvimento
 - Primeiros Socorros e Emergências
 - Leis e órgãos públicos
@@ -192,7 +192,7 @@ Alguns posts vão ter referencias nos nomes. Outros vão entrar nas categorias m
 
 - Coleções
 Serão usadas posteriormente para seções do site que se quer destacar ou para arquivos especiais pra deixar separados
-- referencias completas nas normas ABNT
+- referências completas nas normas ABNT
 
 - Posts por ano
 
@@ -200,13 +200,13 @@ Serão usadas posteriormente para seções do site que se quer destacar ou para 
 - minha foto, uma header talvez, um logo com ctz
 
 ## Sobre este projeto
-O projeto Enciclopédia Materna é o resultado de um esforço de compilar referencias com embasamento científico e atualizadas sobre diversos assuntos pertinentes para uma maternidade sob ótima feminista. Aqui você encontra organizadas referencias sobre assuntos como parto humanizado, gestação, nutrição infantil, amamentação e cultura do desmame, bicos artificiais, desenvolvimento infantil, entre outros. Este projeto é atualizado constantemente com novas referencias.
+O projeto Enciclopédia Materna é o resultado de um esforço de compilar referências com embasamento científico e atualizadas sobre diversos assuntos pertinentes para uma maternidade sob ótima feminista. Aqui você encontra organizadas referências sobre assuntos como parto humanizado, gestação, nutrição infantil, amamentação e cultura do desmame, bicos artificiais, desenvolvimento infantil, entre outros. Este projeto é atualizado constantemente com novas referências.
 
 ## Como usar este site
 
-Este site conta com informações em sua maioria de órgãos nacionais e internacionais, pesquisas científicas e trabalho de ativistas de amamentação. As publicações contém *links* direcionando para todas as referencias e, quando possível, resumos rápidos das informações principais de cada uma delas.
+Este site conta com informações em sua maioria de órgãos nacionais e internacionais, pesquisas científicas e trabalho de ativistas de amamentação. As publicações contém *links* direcionando para todas as referências e, quando possível, resumos rápidos das informações principais de cada uma delas.
 
-O site está organizado da seguinte forma: Há um conjunto de publicações com referencias listadas e resumidas, organizadas por assuntos. É possível vizualizar todas elas na aba "referencias", organizadas por assunto na aba "Assuntos", ou buscar por um tópico específico na opção "Busca".
+O site está organizado da seguinte forma: Há um conjunto de publicações com referências listadas e resumidas, organizadas por assuntos. É possível vizualizar todas elas na aba "referências", organizadas por assunto na aba "Assuntos", ou buscar por um tópico específico na opção "Busca".
 
 O projeto atualmente contém os seguintes assuntos:
 - Bicos artificiais
@@ -229,6 +229,6 @@ O projeto conta também com artigos em que se discute, de forma autoral, assunto
 
 ## Como contribuir com o projeto
 
-Além de utilizar para consulta pessoal, você pode divulgar este projeto para mais pessoas e também pode enviar referencias e sugestões de temas. Entre em contato comigo através dos links ao lado, me enviando um email ou mensagem pelo instagram.
+Além de utilizar para consulta pessoal, você pode divulgar este projeto para mais pessoas e também pode enviar referências e sugestões de temas. Entre em contato comigo através dos links ao lado, me enviando um email ou mensagem pelo instagram.
 
 ---
