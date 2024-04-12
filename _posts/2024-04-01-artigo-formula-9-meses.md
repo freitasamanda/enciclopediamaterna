@@ -20,7 +20,7 @@ A partir dos seis meses e com os sinais de prontidão, os bebês devem passar pe
 
 Além disso, não há motivo para ofertar fórmula em mamadeiras em nenhum momento da vida. Mamadeiras trazem todos os riscos dos bicos artificiais, já abordados em outro espaço deste site. A sucção feita na mamadeira não se assemelha à sucção da amamentação em nenhuma forma. A succção que o bebê realiza na amamentação é fisiológica e natural, e contribui positivamente ao seu desenvolvimento, enquanto a sucção em bicos artificiais trás diversos malefícios. A partir de um ano, além da não necessidade de oferta de fórmulas de seguimento, a mamadeira deve ser retirada e substituída por copos abertos normais. O ideal é que copo aberto já seja usado para ofertar fórmula desde o início da vida, na ausência de leite materno, para que não haja os prejuízos ligados aos bicos artificiais.
 
-# Analisando as referências:
+# Analisando as Referências:
 
 ## Organização Mundial da Saúde - Guia para alimentação complementar de crianças entre 6-23 meses de idade - Tradução livre por Amanda Freitas
 [WHO Guideline for complementary feeding of infants and young children 6-23 months of age](https://iris.who.int/bitstream/handle/10665/373358/9789240081864-eng.pdf?sequence=1)

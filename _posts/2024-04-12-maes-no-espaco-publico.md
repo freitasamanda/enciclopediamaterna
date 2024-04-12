@@ -37,7 +37,7 @@ Algumas leis que fundamentam a opinião esse artigo:
 
 > A participação da criança na formulação das políticas e das ações que lhe dizem respeito tem o objetivo de promover sua inclusão social como cidadã e dar-se-á de acordo com a especificidade de sua idade, devendo ser realizada por profissionais qualificados em processos de escuta adequados às diferentes formas de expressão infantil. ([Lei nº 13.257/2016 Marco Legal da Primeira Infância](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13257.htm))
 
-# REFERÊNCIAS
+# Referências
 
 [DA ROCHA ARRAIS, Alessandra; DE ARAUJO, Tereza Cristina Cavalcanti Ferreira. Depressão pós-parto: uma revisão sobre fatores de risco e de proteção. Psicologia, Saúde e Doenças, v. 18, n. 3, p. 828-845, 2017.](https://www.redalyc.org/pdf/362/36254714016.pdf)
 

@@ -6,7 +6,7 @@ toc: true
 toc_label: "Neste artigo"
 author_profile: true
 categories:
-  - referências
+  - Referências
 tags:
   - Perfis e Podcasts
 ---
