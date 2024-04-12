@@ -5,8 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-# Sobre o projeto  
-
 O projeto Enciclopédia Materna é resultado de um esforço para compilar referências com embasamento científico e atualizadas sobre maternidade de uma perspectiva feminista.  
 
 Aqui você encontra informações sobre assuntos como parto humanizado, gestação, nutrição infantil, amamentação e cultura do desmame, bicos artificiais, entre outros. Este projeto é atualizado constantemente.  
