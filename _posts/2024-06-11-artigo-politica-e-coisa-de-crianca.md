@@ -1,7 +1,7 @@
 ---
 title: "Política é coisa de criança!"
 layout: single
-excerpt: "Contra a apatia e atomização da infância, precisamos estar conscientes sobre quais valores passamos para nossos filhos'
+excerpt: "Contra a apatia e atomização da infância, precisamos estar conscientes sobre quais valores passamos para nossos filhos"
 toc: true
 toc_label: "Neste artigo"
 author_profile: true
