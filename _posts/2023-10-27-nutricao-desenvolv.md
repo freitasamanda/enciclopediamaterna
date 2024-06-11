@@ -11,6 +11,12 @@ tags:
   - Nutrição e desenvolvimento
 ---
 
+## [Caderneta da Criança - Ministério da Saúde](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/caderneta)
+
+## [Caderneta da Criança - Ministério da Saúde - Menino](https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_crianca_menino_6ed.pdf)
+
+## [Caderneta da Criança - Ministério da Saúde - Menina](https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_crianca_menina_6ed.pdf)
+
 ## [Guia alimentar para crianças brasileiras menores de 2 anos - Ministério da Saúde](https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_crianca_brasileira_versao_resumida.pdf)
 
 ## [Projeto PIPAS - Primeira Infância para Adultos Saudáveis](https://www.projetopipas.com.br/resumo.asp?id=3&idpage=520)
